@@ -9,3 +9,7 @@ group :test do
 end
 gem "tzinfo"
 gem "tzinfo-data"
+gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'csv'
+gem 'base64'
+gem 'jekyll-docs'
