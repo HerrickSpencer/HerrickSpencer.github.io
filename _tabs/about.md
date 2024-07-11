@@ -22,7 +22,7 @@ Before I became a dad I was an avid motorcyclist, and rode WAY more than I drove
 - Automation (just getting started here)
 
 ## Techy things I'll probably blog about:
-- I've been playing with electronics, mostly with <a class="zem_slink" title="Arduino" href="http://www.arduino.cc/en/" rel="homepage">Arduino</a> and Netduino's, and plan on making some AI/RC devices with Audio/Video transmitters to play with at the office.
+- I've been playing with electronics, mostly with <a class="zem_slink" title="Arduino" href="https://www.arduino.cc/" rel="homepage">Arduino</a> and Netduino's, and plan on making some AI/RC devices with Audio/Video transmitters to play with at the office.
 - UWP apps and .Net... C# mostly...
 - Git fun
 - Visual Studio and Visual Code tricks
