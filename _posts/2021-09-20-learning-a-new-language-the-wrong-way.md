@@ -5,7 +5,7 @@ date: 2021-09-20 16:17
 author: herrickspencer
 comments: true
 categories: [Spanish Learning Progress]
-tags: [language learning, Spanish]
+tags: [Language Learning, Spanish]
 ---
 I took French in high school, but this has not been that useful to me... I've been able to order a round of drinks at a restaurant the single time I was in France, and was able to start off a speech about a French client by opening in French. That's the extent of my usage need. So.... I'm learning Spanish now.
 
