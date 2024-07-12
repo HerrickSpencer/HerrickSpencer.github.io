@@ -5,6 +5,7 @@ date: 2020-08-08 00:21
 author: herrickspencer
 comments: true
 categories: [DIY, Drill and Charger Rack, Fusion 360, Woodworking]
+image: /assets/img/postMedia/2020/08/drill_and_charger_rack_render_thumb.png
 ---
 [![Drill_and_Charger_Rack_Render](/assets/img/postMedia/2020/08/drill_and_charger_rack_render_thumb.png)](/assets/img/postMedia/2020/08/drill_and_charger_rack_render.png)
 
