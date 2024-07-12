@@ -5,6 +5,7 @@ date: 2008-05-16 14:03
 author: herrickspencer
 comments: true
 categories: [Motorcycles]
+tags: [Motorcycles]
 ---
 [Piaggio ready to release 170 mpg hybrid two and three wheel scooters](http://www.gizmag.com/go/7730/)
 

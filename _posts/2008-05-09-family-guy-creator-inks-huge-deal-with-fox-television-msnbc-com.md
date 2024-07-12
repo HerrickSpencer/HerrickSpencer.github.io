@@ -3,6 +3,7 @@ layout: post
 title: Family Guy creator inks huge deal with Fox
 date: 2008-05-09 19:20
 categories: [Entertainment]
+tags: [Family Guy]
 ---
 Seth! You rock star! $100M for 4 years of work... damn, that's sport-star green. This deal makes him the best-paid writer in TV.
 
