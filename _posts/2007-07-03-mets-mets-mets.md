@@ -12,4 +12,4 @@ Watching Wright drive home the last inning runs to win the game against the A's 
 
 Please note the ironic nerd shirt.
 
-![Image was lost to the sands of time, sorry](http://by1.storage.msn.com/y1pquEz8HoDZDbDB3LftPcdrlTv5noT96Y5NXQqRXvxUrCVc5m13JrXHQbCM4PZEZFt-ERl3srRiV1Du79jcx1wfQ)
+(Image was lost to the sands of time, sorry)

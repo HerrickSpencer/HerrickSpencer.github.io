@@ -13,7 +13,7 @@ I've been attempting to learn Spanish for over 3 years... seriously trying for a
 
 Since our nanny comes from Ecuador and my cousin speaks fluent Spanish (spent a few years in Argentina) I asked them for advice. They told me to start reading and watching anything I could in my target language. Exceptionally good advice.... and I did just that.
 
-While my reading skills have improved, my listening skills were poor. So I (foolishly?) thought I should try something called a [Language exchange](http://language.exchange) on a great free site. This is where you find a partner with opposite language goals as you (feels like a platonic dating app tbh) and spend half an hour in their native language, and half hour in your native language.
+While my reading skills have improved, my listening skills were poor. So I (foolishly?) thought I should try something called a [Language exchange](https://language.exchange) on a great free site. This is where you find a partner with opposite language goals as you (feels like a platonic dating app tbh) and spend half an hour in their native language, and half hour in your native language.
 
 My first exchange told me I was not ready for even the most basic conversation. It was so demoralizing I nearly quit this goal. However, I regrouped and started researching how best to learn a language... research was eyeopening. All the ways we learn in school, or how we are taught by a majority of books is simply inefficient, or more likely wrong.
 

@@ -20,4 +20,4 @@ Further, and a bit scarier, is the possibility of monitoring individuals' wherea
 
 So watch out, Nokia—the next cell phone I use may be simply implanted directly into my ear lobe! Hey, my ear is buzzing... I'd better take this.
 
-Link: [Nanotube Radio - UC Berkeley](http://socrates.berkeley.edu/~argon/nanoradio/radio.html)
+Link: [Nanotube Radio - UC Berkeley](https://socrates.berkeley.edu/~argon/nanoradio/radio.html)

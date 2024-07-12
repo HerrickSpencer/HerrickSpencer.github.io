@@ -6,7 +6,7 @@ author: herrickspencer
 comments: true
 categories: [Hiking]
 ---
-I was recently watching a documentary by Ric Burns on American Experience titled ["Ansel Adams: A Documentary Film"](http://www.pbs.org/wgbh/amex/ansel/index.html) (kind of self-referentially redundant title).
+I was recently watching a documentary by Ric Burns on American Experience titled ["Ansel Adams: A Documentary Film"](https://www.pbs.org/wgbh/americanexperience/films/ansel/) (kind of self-referentially redundant title).
 
 Ansel Adams included a line from a poem in a letter he wrote to a gallery owner he was preparing a show for.
 
@@ -17,6 +17,6 @@ For some reason, this quote resonated with me. I've always loved the outdoors, a
 
 When you are hiking all alone in the mountains, depending on your mind to get you to the next water source before dark, so that you can cook food to survive, little else matters. As you pass by an opening in the trees along the ridge line, and get presented with the gift of a vista encompassing miles of open landscape—farms, hills, valleys, streams, small villages—whatever comes to mind, it is not the difficulties of job, family, or social missteps.
 
-Your mind is clear; you have a sense of your place in the world—the universe. It is clear, despite all your knowledge of logic, science, and evolution, that there IS a God. That God IS nature. That God controls the [mathematical formal systems](http://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) that govern the evolution of life as we know it.
+Your mind is clear; you have a sense of your place in the world—the universe. It is clear, despite all your knowledge of logic, science, and evolution, that there IS a God. That God IS nature. That God controls the [mathematical formal systems](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) that govern the evolution of life as we know it.
 
 He might not care if I live or die, he might not care if I am distressed about the minutia of my life's tribulations, but he has a hand in creating: the eyes that see the wonders he has wrought; the ears that can affect my mood with the melody of his world; and the evolution that led to the brain that can interpret my place in the universe.
