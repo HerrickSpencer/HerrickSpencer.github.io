@@ -5,6 +5,7 @@ date: 2019-11-13 15:11
 author: herrickspencer
 comments: true
 categories: [Life]
+tags: [Books,Parenting]
 ---
 Some people who have not experienced the full time care of a small child may view parental or bonding leave as a vacation. Yes, there are many people in your own workplace that still views this benefit as a ‘perk’.  I was not one of them but I, like them, thought it a bit of a bonus where you get to stay home and relax with your new child. (likely influenced by experience babysitting cousins and neighborhood kids) So I had a vast list of goals set out for myself when embarking on my leave, knowing that I likely would not accomplish most of them, but thinking I’d get a vast number completed.
 
