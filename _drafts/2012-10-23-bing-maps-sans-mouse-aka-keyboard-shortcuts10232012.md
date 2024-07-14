@@ -6,7 +6,7 @@ author: herrickspencer
 comments: true
 categories: [Technology, Tip Of The Week]
 ---
-<img src="https://herrickspencer.blog/wp-content/uploads/2012/10/tip-of-the-week-tow-top_thumb.jpg" /></p>
+<img src="/{{ site.postMedia }}/2012/10/tip-of-the-week-tow-top_thumb.jpg" /></p>
 
 It is no secret that I love keyboard shortcuts… I hate having to move my hands away from the keyboard just to do some small movement with the mouse and go back.&#160; DUMB. If you can do it with a keyboard shortcut.. it is so much faster.
 

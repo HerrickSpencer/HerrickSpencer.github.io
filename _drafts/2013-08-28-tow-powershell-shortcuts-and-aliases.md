@@ -6,7 +6,7 @@ author: herrickspencer
 comments: true
 categories: [powershell, Programming, Technology, Tip Of The Week]
 ---
-<img src="https://herrickspencer.blog/wp-content/uploads/2012/10/tip-of-the-week-tow-top_thumb_thumb.jpg" /></p>
+<img src="/{{ site.postMedia }}/2012/10/tip-of-the-week-tow-top_thumb_thumb.jpg" /></p>
 
 I love scripting, Perl, PowerShell, SQL, whatever is most convenient to get the job done with minimal effort… and allow me to record my script to use when the issue presents itself in the future. One of the things that coders love to do is make something that is already convenient, even MORE convenient. 
 

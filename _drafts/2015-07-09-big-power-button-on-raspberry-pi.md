@@ -14,4 +14,4 @@ SPST Inline Push-Button Floor Switch ON-OFF 1A
 
 Works great!
 
-[caption id="attachment_249" align="alignnone" width="300"]<a href="https://herrickspencer.blog/wp-content/uploads/2015/07/wp_20150709_001.jpg"><img class="size-medium wp-image-249" src="https://herrickspencer.blog/wp-content/uploads/2015/07/wp_20150709_001.jpg?w=300" alt="Big power button for my Raspberry Pi" width="300" height="169" /></a> Big power button for my Raspberry Pi[/caption]
+[caption id="attachment_249" align="alignnone" width="300"]<a href="/{{ site.postMedia }}/2015/07/wp_20150709_001.jpg"><img class="size-medium wp-image-249" src="/{{ site.postMedia }}/2015/07/wp_20150709_001.jpg?w=300" alt="Big power button for my Raspberry Pi" width="300" height="169" /></a> Big power button for my Raspberry Pi[/caption]
