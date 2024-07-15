@@ -1,6 +1,7 @@
 ﻿$dir = "D:\source\repos\HerrickSpencer.github.io\_drafts"
 $children = Get-ChildItem -File $dir 
 foreach( $_ in $children) {
+    $content = "";
     $content = Get-Content $_.FullName
     $changed = $false;
     
@@ -32,7 +33,7 @@ foreach( $_ in $children) {
     if ($changed)
     {
         $newFilename = $_.FullName; ## $_.DirectoryName + "/" + $_.BaseName + "_FIXED" + $_.Extension
-        Set-Content -Path $newFilename -Value $newContent
+        Set-Content -Path $newFilename -Value $content
         Write-Host "File $($_.Name) processed. New file saved as $newFilename"
     }
 }
