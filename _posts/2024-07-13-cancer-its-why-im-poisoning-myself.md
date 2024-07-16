@@ -95,7 +95,7 @@ On to the updates... of all the Chemo-Therapy fun, including getting my injectio
 
 Links to posts will be added below as they are created.
 
-{% for post in site.posts.personal %}
+{% for post in site.posts %}
   {% if post.categories contains 'Cancer Update' %}
 - [{{ post.title }}]({{ post.url }})  
 {% if post.excerpt and post.excerpt.size > 3 -%}
