@@ -41,6 +41,8 @@ The incisions were sealed up with crazy glue (serious) and they would simply fal
 ![Accessing the port](/assets/img/postMedia/cancer/AccessingPort.png){: width="400" .right}
 The whole point of this procedure was to allow for access to your veins without having to make a new IV line each time they do chemo, or have to take blood... which they do two times every three weeks.
 
-They recommend you cover the port site with Lidocaine prior to the access, but I forgot the first time! I was rather cocerned it would hurt due to this, but honestly, since it is just going into the port they use a much smaller needle than if it was an IV, so it was the easiest shot I've been given thus far.  (I did use the Lidocaine there after though, jic.)
+They recommend you cover the port site with Lidocaine prior to the access, but I forgot the first time! I was rather concerned it would hurt due to this, but honestly, since it is just going into the port they use a much smaller needle than if it was an IV, so it was the easiest shot I've been given thus far.  (I did use the Lidocaine there after though, jic.)
 
-The blood was drawn easily for the test and off I went to [the first chemo injection](/_drafts/cancer-chemo-infusion-1-of-6.md), which was as easy as plugging a USB into a computer. I have evolved to have accessible ports.
+The blood was drawn easily for the test and off I went to [the first chemo injection]({% post_url 2024-07-16-cancer-chemo-infusion-1-of-6 %}), which was as easy as plugging a USB into a computer. 
+
+I have evolved to have accessible ports.
