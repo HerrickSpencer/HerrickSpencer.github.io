@@ -2,6 +2,8 @@
 layout: post
 title: Moving to GitHub Pages
 date: 2024-07-11 17:24 -0700
+pin: true
+image: /assets/img/github-mark-white.svg
 ---
 
 ## Please bear with me
