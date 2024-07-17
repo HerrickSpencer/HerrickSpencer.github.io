@@ -16,4 +16,14 @@ The biggest step is converting all the old blog posts from WP to Markdown. I've 
 
 I will be adding more content soon about what I've been involved with, and new TOWs.
 
+
+There is nothing inherently wrong with the WordPress system/site, just that I want to have ultimate control over the style and content, without adds.  I'd say because it is free, but there is a lot of effort involved in maintaining your own site, thus WordPress deserves the nominal fee they charge for that service. I have no regrets having been on here for a decade.
+
+Eventually, once I switch over all the domains, you will be able to go to the new pages from all these URLs:
+
+- https://HerrickSpencer.com
+- https://HerrickSpencer.blog
+- https://GlutenFreeApps.com
+- https://SingleMaltCheese.com
+
 Cheers, Herrick.
