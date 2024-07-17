@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Cancer-Hair clipping day
+title: June 23, '24 - Hair clipping day
 categories:
-- Cancer
-- Cancer Update
+  - Cancer
+  - Cancer Update
 tags:
-- Cancer
-excerpt: ''
+  - Cancer
+excerpt: ""
 ---
