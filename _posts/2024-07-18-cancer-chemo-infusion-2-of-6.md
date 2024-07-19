@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June 20, '24 - Chemo Infusion \#2 of 6
+title: "June 20, '24 - Chemo Infusion #2 of 6"
 categories:
   - Cancer
   - Cancer Update
@@ -27,43 +27,43 @@ Chemo injection and access... easy as last time, maybe easier.  Fiona said, "I h
 
 I had a blast talking to Alex and getting caught up on his life.  We shot the shit for the hour and it flew by, punctuated by the act of changing ice bags on hands and feet every 10 minutes.  Fiona returned to pick us up and we all went out to eat at a lovely vegan Thai place near the hospital. 
 
+My son had his graduation from pre-school, so we went to the park and celebrated for a few hours. Loved it!  Decided not to talk to him about the morning's issues till the following day so as not to spoil the good cheer.
+
 I did go out to mow the lawn afterwards though.
 
 ## Day 1 of cycle
 
-TBD
+There was much trepidation on doing this booster again, and took quite a while to reach the courage. It didn't help that I got very little sleep the night before due to the steroids, or that the car had a check engine light on and mechanic was ignoring my calls. Talking to Mom on the phone with Alex there did help. We tried to fool her with our similar voices but failed.
 
 ## Day 2 of cycle
 
-TBD
+Tiredness has set in already. Napping is more like narcolepsy. 
+
+Our first Au-Pair and still family member Sofia came over to check on me and we enjoyed chatting and kids clambering for attention. Since she was there, meaning more hands to watch kids, I asked the kids if they wanted to shave my head. Whenever I run my hand through my hair for the last week, it comes back looking like a werewolf's hand.  I was disgusted thinking of where else it was landing. So off with my head! 
+
+The kids had a blast with this, and it only looks really f'n weird.
 
 ## Day 3 of cycle
 
-TBD
+Feeling that familiar bone pain. Arthritis sux, people... but Ibuprofen works.
 
 ## Day 4 of cycle
 
-TBD
+New day, new naps.
 
-## Day 5 of cycle
+## Day 5 of cycle (final shot)
 
-TBD
+New day... pain and naps are feeling old.
 
 ## Day 6 of cycle
 
-TBD
+No more shots, but thought I'd mention that I used my bald head as an excuse to go by a proper stetson hat.  I look like a dad in it... but I love it. It also shades from the sun really well.
 
-## Day 7 of cycle
-
-TBD
-
-## Day 8 of cycle (final shot)
-
-TBD
 ## Other things to mention
 
-TBD
-
+- Though exhausted, I came up with (and implemented) a cool way to use a Chain of Responsibility pattern at work to gain modular swap ability, test-ability, experimentation, and code readability in Snipping Tool's OCR processing. 
+- Insurance is ridiculous, and thank Zeus for it. They are a pain in the ass, but just these shots cost $200 each!
+- Feeling very thankful for family and friends.  My wife and kids have been awesome and caring, and especially for my siblings who dropped things to join me.
 
 
 {% assign posts = site.posts | where_exp: "item", "item.title contains '3 of 6'" %}
