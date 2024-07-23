@@ -5,6 +5,8 @@ refactor: true
 
 {% include lang.html %}
 
+<i> <b>Note:</b> Some of my personal posts are kept off this list, for those that are only interested in technical content. You can find them in the <a href="/categories/life">Personal Life</a> category.</i>
+
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 

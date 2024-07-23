@@ -2,6 +2,7 @@
 layout: post
 title: May 29, '24 - Port implant
 categories:
+- Life
 - Cancer
 - Cancer Update
 tags:

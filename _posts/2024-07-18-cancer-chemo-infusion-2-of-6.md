@@ -2,6 +2,7 @@
 layout: post
 title: "June 20, '24 - Chemo Infusion #2 of 6"
 categories:
+  - Life
   - Cancer
   - Cancer Update
 tags:
