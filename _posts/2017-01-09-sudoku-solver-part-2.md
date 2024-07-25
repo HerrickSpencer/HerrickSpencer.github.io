@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Sudoku Solver&ndash;Part 2
 date: 2017-01-09 00:52
 author: herrickspencer

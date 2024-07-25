@@ -17,6 +17,7 @@ This week, a significant issue arose involving CrowdStrike and Microsoft compute
 
 CrowdStrike, a cybersecurity company, released an update for its Falcon Sensor software, which is designed to protect computer systems from cyber attacks. Unfortunately, this update contained a defect that caused Windows computers with the software installed to crash, resulting in the infamous “Blue Screen of Death”.
 
+_\[Update: I'd mention that Dave Plummer has [a great overview of the technical side to this outage](https://youtu.be/wAzEJxOo1ts?si=-R6jTSQlR9hORYtI) over on his YouTube Channel.  I recommend viewing this if you are more inclinded to here the nitty gritty details of what happened with the update.\]_
 ## Global Impact
 
 The issue started in Australia and quickly spread worldwide, affecting various sectors including airlines, banks, broadcasters, and healthcare systems. Many businesses and organizations experienced significant disruptions as their Windows-based systems crashed.
