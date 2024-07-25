@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: A Virtual Adventure in PC protection
 date: 2010-02-01 11:08
 author: herrickspencer

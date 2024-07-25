@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: TOW &ndash; PowerShell Shortcuts and Aliases
 date: 2013-08-28 10:23
 author: herrickspencer

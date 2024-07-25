@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: New House.. New &lsquo;Honey Do&rsquo; List
 date: 2014-03-24 12:22
 author: herrickspencer

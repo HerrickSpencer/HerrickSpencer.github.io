@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Made some &lsquo;Shop Dogs&rsquo;
 date: 2014-08-20 18:28
 author: herrickspencer

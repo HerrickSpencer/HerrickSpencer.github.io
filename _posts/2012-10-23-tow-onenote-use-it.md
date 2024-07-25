@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: TOW - OneNote... Use it.
 date: 2012-10-23 16:02
 author: herrickspencer

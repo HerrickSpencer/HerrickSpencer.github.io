@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Rolling woodcart with Panel cutter
 date: 2015-09-29 11:21
 author: herrickspencer

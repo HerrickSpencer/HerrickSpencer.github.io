@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Big power button on Raspberry Pi
 date: 2015-07-09 12:40
 author: herrickspencer

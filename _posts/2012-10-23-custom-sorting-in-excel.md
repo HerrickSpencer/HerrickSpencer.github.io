@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Custom Sorting In Excel
 date: 2012-10-23 15:48
 author: herrickspencer

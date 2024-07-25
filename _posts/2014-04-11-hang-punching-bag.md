@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: "Honey Do: Punch the Fatty. (Hang 'em High)"
 date: 2014-04-11 13:02
 author: herrickspencer

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Not a TOW - LCD message via RF transmitter on Arduino
 date: 2012-10-23 15:52
 author: herrickspencer

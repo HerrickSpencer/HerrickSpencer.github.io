@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: "Honey Do: Garage Door Opener x 2"
 date: 2014-04-11 13:25
 author: herrickspencer

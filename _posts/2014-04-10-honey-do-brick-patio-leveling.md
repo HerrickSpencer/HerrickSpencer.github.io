@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: "Honey Do Brick Patio Leveling"
 date: 2014-04-10
 author: herrickspencer

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Ergonomic Desks (ver 1.0 and 2.0)
 date: 2015-12-30 00:14
 author: herrickspencer

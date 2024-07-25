@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Visual Studio &ndash; Reference hopping, code snippets, and other handy shortcuts
 date: 2012-10-23 15:54
 author: herrickspencer

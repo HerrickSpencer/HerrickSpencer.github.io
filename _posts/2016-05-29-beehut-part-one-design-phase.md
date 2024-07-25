@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Beehut part one.. design phase.
 date: 2016-05-29 12:23
 author: herrickspencer

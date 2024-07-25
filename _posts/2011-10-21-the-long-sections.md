@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: The Long Sections
 date: 2011-10-21 17:39
 author: herrickspencer

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Under Siege in a Trojan (Virus) War!
 date: 2010-01-28 15:06
 author: herrickspencer

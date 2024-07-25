@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Bing Maps&hellip; sans mouse. (aka keyboard shortcuts)
 date: 2012-10-23 14:47
 author: herrickspencer

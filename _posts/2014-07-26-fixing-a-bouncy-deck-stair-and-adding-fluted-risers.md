@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Fixing a bouncy deck stair, and adding fluted risers
 date: 2014-07-26 23:24
 author: herrickspencer

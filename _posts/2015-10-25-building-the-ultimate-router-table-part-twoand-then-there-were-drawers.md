@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Building the &lsquo;Ultimate Router Table&rsquo; part two&ndash;and then there were drawers.
 date: 2015-10-25 22:44
 author: herrickspencer

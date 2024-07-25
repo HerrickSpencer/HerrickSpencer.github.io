@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: BeeHut part 2
 date: 2016-11-06 17:15
 author: herrickspencer

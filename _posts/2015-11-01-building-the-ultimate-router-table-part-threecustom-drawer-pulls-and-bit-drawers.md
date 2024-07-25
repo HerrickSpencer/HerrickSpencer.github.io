@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Building the &lsquo;Ultimate Router Table&rsquo; part three&ndash;custom drawer pulls and bit drawers
 date: 2015-11-01 20:34
 author: herrickspencer

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Building the &lsquo;Ultimate Router Table&rsquo; part one
 date: 2015-10-11 21:45
 author: herrickspencer

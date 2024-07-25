@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: TOW - Stop using your mouse&hellip;
 date: 2012-10-23 15:53
 author: herrickspencer

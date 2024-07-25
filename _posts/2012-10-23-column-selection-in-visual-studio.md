@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: Column Selection in Visual Studio
 date: 2012-10-23 15:59
 author: herrickspencer

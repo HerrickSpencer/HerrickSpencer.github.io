@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: WPArchive
 title: The Sudoku Solver&hellip;. Episode one
 date: 2011-10-19 19:17
 author: herrickspencer
