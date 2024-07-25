@@ -6,7 +6,7 @@ author: herrickspencer
 comments: true
 categories: [Beekeeping, DIY]
 ---
-So a lot of time has passed since [part 1 of the beehut build](/_posts/beehut-part-one-design-phase) went out to you all, but I promise we completed the project soon after… about June 20th of last summer. The bees have loved the spot… tons of growth and activity in the shed. There has been no more bear attacks to date, and no signs of any attempt at that either!</p>
+So a lot of time has passed since [part 1 of the beehut build]({% post_url 2016-05-29-beehut-part-one-design-phase %}) went out to you all, but I promise we completed the project soon after… about June 20th of last summer. The bees have loved the spot… tons of growth and activity in the shed. There has been no more bear attacks to date, and no signs of any attempt at that either!</p>
 
 <a href="/{{ site.postMedia }}/2016/11/wp_20160620_14_10_36_pro.jpg"><img title="WP_20160620_14_10_36_Pro" style="background-image:none;padding-top:0;padding-left:0;display:inline;padding-right:0;border-width:0;" border="0" alt="WP_20160620_14_10_36_Pro" src="/{{ site.postMedia }}/2016/11/wp_20160620_14_10_36_pro_thumb.jpg" width="244" height="139" /></a><a href="/{{ site.postMedia }}/2016/11/wp_20160620_16_22_34_pro.jpg"><img title="WP_20160620_16_22_34_Pro" style="background-image:none;padding-top:0;padding-left:0;display:inline;padding-right:0;border-width:0;" border="0" alt="WP_20160620_16_22_34_Pro" src="/{{ site.postMedia }}/2016/11/wp_20160620_16_22_34_pro_thumb.jpg" width="244" height="139" /></a>
 

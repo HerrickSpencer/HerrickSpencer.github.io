@@ -6,7 +6,7 @@ author: herrickspencer
 comments: true
 categories: [Programming, Sudoku, Technology]
 ---
-I have recently had the opportunity to pose the [original Sudoku question](/_posts/the-sudoku-solver-episode-one) to some tech questions to some colleagues and geeky visitors at my office. It inspired me to make an update to that blog post, and also to upload the code I’d worked on back in 2011 that solved these puzzles in an interesting way.</p>
+I have recently had the opportunity to pose the [original Sudoku question]({% post_url 2011-10-19-the-sudoku-solver-episode-one %}) to some tech questions to some colleagues and geeky visitors at my office. It inspired me to make an update to that blog post, and also to upload the code I’d worked on back in 2011 that solved these puzzles in an interesting way.</p>
 
 If you don’t recall, the [original Sudoku question](/_posts/the-sudoku-solver-episode-one) was to code a simple function that would return a value indicating if a Sudoku puzzle given as input was correctly solved. I’d posted an example of one common solution in C# (based on answers I was given) and got many responses to this problem. In this round I’d like to add some additional methods of solving the problem, as well as introduce the code I’d worked on 6 yrs ago that would self solve a puzzle as the puzzle was input into the program, simply by driving solving logic using event handling only.
 
