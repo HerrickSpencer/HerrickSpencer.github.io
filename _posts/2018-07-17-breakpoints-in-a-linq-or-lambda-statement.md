@@ -16,7 +16,7 @@ tags:
 - Tip Of The Week
 - Visual Studio
 ---
-![Visual Studio](/{{ site.postMedia }}/2012/10/clip_image0011.jpg)
+![TOW](/{{ site.postMedia }}/TipOfTheWeek.jpg)
 
 In the most recent update of Visual Studio, one of the new features is the ability to convert a LINQ query to a `foreach` statement. When this was pointed out to me in an email, I jokingly responded, “Why would you want to do that!?” because I favor Lambda and LINQ statements over `for`/`foreach`.
 

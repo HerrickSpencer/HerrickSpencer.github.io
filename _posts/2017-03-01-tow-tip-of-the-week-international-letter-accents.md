@@ -7,7 +7,7 @@ comments: true
 categories: [Tip Of The Week, Language Learning]
 tags: [Tip Of The Week, Language Learning]
 ---
-![clip_image001](/{{ site.postMedia }}/2012/10/clip_image001_thumb.jpg?w=972&h=315)
+![TOW](/{{ site.postMedia }}/TipOfTheWeek.jpg)
 
 For those of you who speak Spanish, French, or other languages that use accents and want to be able to add these accents easily, here’s a guide for Windows 10 (and some previous versions):
 
