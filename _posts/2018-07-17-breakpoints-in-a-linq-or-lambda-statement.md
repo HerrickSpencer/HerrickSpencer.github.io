@@ -5,14 +5,14 @@ date: 2018-07-17 18:00
 author: herrickspencer
 categories:
 - Tip Of The Week
-- Visual Studio
+- Programming
 tags:
 - Breakpoints
 - C#
-- debugging
+- Visual Studio
+- Debugging
 - Lambda
 - LINQ
-- Programming
 - Tip Of The Week
 - Visual Studio
 ---

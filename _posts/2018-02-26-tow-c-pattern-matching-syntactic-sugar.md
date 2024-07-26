@@ -4,7 +4,8 @@ title: TOW&ndash;C# Pattern matching-syntactic sugar
 date: 2018-02-26 10:42
 author: herrickspencer
 comments: true
-categories: [C# Pattern matching, Programming, Tip Of The Week]
+categories: [Programming, Tip Of The Week]
+tags: [C#, Tip Of The Week]
 ---
 ![TOW](/{{ site.postMedia }}/TipOfTheWeek.jpg)
 

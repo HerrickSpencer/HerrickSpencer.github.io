@@ -7,6 +7,7 @@ comments: true
 categories:
 - Programming
 - Tip Of The Week
+tags: [Programming, Visual Studio, Tip Of The Week]
 ---
 I recently found two extensions to Visual Studio that I have been using for a week or more and don’t know how I could have done without them. I thought it best to add a quick post to both tell any poor soul visiting this long forgotten blog site about them; as well as to make a way for me to remember them if I forget which ones these are in the future.
 

@@ -3,9 +3,10 @@ layout: post
 title: 'TOW: Quick QR Code Creation'
 categories:
 - Tip Of The Week
+- Technology
 tags:
-- TOW
-- QR_Code
+- Tip Of The Week
+- QR Code
 - Technology
 excerpt: How to create a QR Code from any url in 10s.
 image: "/assets/img/qrcode_herrickspencer.blog.png"

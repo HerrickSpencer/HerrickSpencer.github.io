@@ -4,8 +4,8 @@ title: Column Selection in Visual Studio
 date: 2012-10-23 15:59
 author: herrickspencer
 comments: true
-categories: [TOW, Programming]
-tags: [WPArchive, TOW, Visual Studio]
+categories: [Tip Of The Week, Programming]
+tags: [WPArchive, Tip Of The Week, Visual Studio]
 ---
 ![TOW](/assets/img/postMedia/TipOfTheWeek.jpg)
 
