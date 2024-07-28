@@ -21,13 +21,13 @@ First let’s play with our new panel cutter to slice the 3/4” plywood into th
 
 Which will get you a nice little pile of carcase pieces to process.
 
-| [![WP_20151010_017]({{ site.postMedia }}/2015/10/wp_20151010_017_thumb.jpg "WP_20151010_017")]({{ site.postMedia }}/2015/10/wp_20151010_017.jpg) | [![image]({{ site.postMedia }}/2015/10/image_thumb2.png "image")]({{ site.postMedia }}/2015/10/image2.png) |
+| [![WP_20151010_017]({{ site.postMedia }}/2015/10/wp_20151010_017_thumb.jpg "WP_20151010_017")](/{{ site.postMedia }}/2015/10/wp_20151010_017.jpg) | [![image]({{ site.postMedia }}/2015/10/image_thumb2.png "image")](/{{ site.postMedia }}/2015/10/image2.png) |
 
 First step of processing the pieces is to add dados to accept the adjoining parts. Such as each side needs two dado’s to receive the shelves.  A dado is simply a trough cut into the piece that is the same width of the piece to be joined, allowing the joined piece to fit nicely inside and simply be glued, normally with no need for extra screws etc.. [![WP_20151010_018](/{{ site.postMedia }}/2015/10/wp_20151010_018_thumb1.jpg "WP_20151010_018")](/{{ site.postMedia }}/2015/10/wp_20151010_0181.jpg){: .right} 
 
 This is done easy with a router, attaching a straight bit of the same width as the dado, and clamping a straight edge (give extra room for the distance from the bit to the edge of the router plate. Setting the depth of the bit on the router to the depth needed and running it across the piece keeping it tight to the straight edge as a guide will create the dado nicely.
 
-| [![WP_20151010_025]({{ site.postMedia }}/2015/10/wp_20151010_025_thumb1.jpg "WP_20151010_025")]({{ site.postMedia }}/2015/10/wp_20151010_0251.jpg) | [![WP_20151010_020]({{ site.postMedia }}/2015/10/wp_20151010_020_thumb.jpg "WP_20151010_020")]({{ site.postMedia }}/2015/10/wp_20151010_020.jpg) |
+| [![WP_20151010_025]({{ site.postMedia }}/2015/10/wp_20151010_025_thumb1.jpg "WP_20151010_025")](/{{ site.postMedia }}/2015/10/wp_20151010_0251.jpg) | [![WP_20151010_020]({{ site.postMedia }}/2015/10/wp_20151010_020_thumb.jpg "WP_20151010_020")](/{{ site.postMedia }}/2015/10/wp_20151010_020.jpg) |
 
 This method can also be used to create the half blind joint to accept the cleat at the edge of the top face of the cabinet. This joint will need to be chiseled at the inside edge due to the rounded bit leaving a round edge rather than a nice square face needed to mate with the cleat. To make the small dado used to accept the back panel could be done this way, but I chose to instead use a fence attached to the router to provide a nice consistent groove, as well as a similar tongue on the back panel itself. This could also be done easily on a router table… but that’s what we are making so it seems kind of  too meta to do that :)
 
