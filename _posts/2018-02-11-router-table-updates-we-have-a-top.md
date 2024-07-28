@@ -5,7 +5,7 @@ date: 2018-02-11 02:08
 author: herrickspencer
 comments: true
 categories: [DIY, Woodworking]
-tags: [DIY, Woodworking, Woodworking Ultimate Router Table]
+tags: [DIY, Woodworking, Ultimate Router Table]
 ---
 ## Ultimate Router Table Top
 
