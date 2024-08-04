@@ -64,7 +64,7 @@ However, HB did have two successes... he completed a 500pc Groot Lego set meant 
 ## Other things to mention
 
 
-{% assign posts = site.posts | where_exp: "item", "item.title contains '4 of 6'" %}
+{% assign posts = site.posts | where_exp: "item", "item.title contains '5 of 6'" %}
 
 {% if posts.size > 0 %}
 ## Next Update:  
