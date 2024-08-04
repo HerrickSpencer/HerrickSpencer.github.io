@@ -47,6 +47,8 @@ This night I had some super bad nausea. So... for the first time ever I decided 
 
 Similar night... but this time I didn't take the meds for fear of becoming a zombie. Nausea was tamped down with some Graham crackers and water. It was a tough day anyway... everyone was feeling the stress. Fiona got some bad news, and everything parenting wise was tough.
 
+One more issue was exhaustion. I had 'taken off work' this week, but really just to set expectations. I actually was able to get a bunch of work done the last two days, but today... I passed out after lunch for a 3 hour nap. This cycle is kicking my butt.
+
 However, HB did have two successes... he completed a 500pc Groot Lego set meant for 10+... and more importantly... lost his first tooth. Well, really it was his first lost naturally. He's lost a few others due to vitamin gummies. (These are the devil's dentistry tool)
 
 ## Day 4 of cycle
