@@ -10,6 +10,9 @@ tags:
   - Medical Insurance SNAFU
 excerpt: PSA 0.03! The return of the Karen.
 ---
+
+_[**NOTE**: Incomplete: Micro updates below]_
+
 - PSA: 0.03!
 - Support: Karen parte deux!
 - Approx cost for the year: $130,000
@@ -30,14 +33,21 @@ Chemo was similar to the rest, except Karen and I played a game of chess, with m
 
 The sun came out after the treatment and my mood lifted. We had lunch at a pasta restaurant in Kirkland. Then we went home and I mowed the lawn... as is the tradition in chemo.
 
-
-
 ## Day 1 of cycle
+
+Last night went ok, but it was prophetic that the symptoms started off earlier this time. I didn't have any pain, but I had heartburn from this day forward, and importantly my arms and legs felt like lead weights. This was a portent for things to come.
+
+I took my shot as fast as possible to get it out of the way... but it's depressing that there were 6 more shots waiting in the fridge. ($200 ea FYI)
 
 ## Day 2 of cycle
 
+This night I had some super bad nausea. So... for the first time ever I decided it would be ok to take some of the nausea medicines I was given for this purpose. Well, let me tell you, these seemed like I'd taken an opiod! Within 10 min I was 'loopy' and very drowsy. I actually sent a text to Fiona and Karen to tell them that if they saw me walking around at night to make sure I wasn't sleepwalking my way to the car for a night time dream cruise.  
 
 ## Day 3 of cycle
+
+Similar night... but this time I didn't take the meds for fear of becoming a zombie. Nausea was tamped down with some Graham crackers and water. It was a tough day anyway... everyone was feeling the stress. Fiona got some bad news, and everything parenting wise was tough.
+
+However, HB did have two successes... he completed a 500pc Groot Lego set meant for 10+... and more importantly... lost his first tooth. Well, really it was his first lost naturally. He's lost a few others due to vitamin gummies. (These are the devil's dentistry tool)
 
 ## Day 4 of cycle
 
