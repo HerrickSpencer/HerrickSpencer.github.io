@@ -11,8 +11,6 @@ tags:
 excerpt: PSA 0.03! The return of the Karen.
 ---
 
-_[**NOTE**: Incomplete: Micro updates below]_
-
 - PSA: 0.03!
 - Support: Karen parte deux!
 - Approx cost for the year: $130,000
@@ -74,6 +72,13 @@ That being said, I think my energy was returning. I took HB for our normal walk,
 
 ## Other things to mention
 
+My siblings have given me such joy over the last 12 weeks I can't explain how it has improved my outlook on this treatment. Comradery and familiarity with common roots and patterns of thinking make for short-hand conversations that seem as easy as breathing. While support from family has been a huge help, it is difficult to slip into another person's home and assist them on tasks you are unfamiliar with, within schedules that are opaque, varying, and unknown. It is not natural to know how to anticipate a need or step in without asking, providing that extra hand when one was not requested. Nor is is familiar to many how to take over support for a child in tantrum that is not your own. Anticipating a issue before the child has is something a parent can do for their own child, but seems like magic to anyone else, even other parents.
+
+My siblings have stepped up to this challenge and have done a valiant effort for Fiona and I. As these cycles seem to get tougher, I can see how hard the first ones with so much unknown effects were made so much easier by their presence. Yet we have also noticed our own abilities in the negative spaces of this support, where we have actually been able to 'get it done' and 'push through' without support. This makes me feel proud of myself, but mostly Fiona, who is doing a great job balancing the life of our kids, her PhD, Job, and the extreme stress and anxiety of this treatment and scary morbid thought inducing illness.
+
+The next cycle will start on a Friday. Which, if the pattern we are seeing continues, means that on the third or forth day I will be under the worst effects. However this time they will be mid week when kids are mostly at school.  By that following weekend, we are hoping that my energy will have returned in time for a big birthday bash on HB's birthday. To this end, and since it is hard for siblings to come out this time, we are going to try something radical, going without support in house.  Of course we will have support of DoorDash and maybe a babysitter for that first weekend, but that is all.
+
+I think we can do it, do you?  See you in the next update.
 
 {% assign posts = site.posts | where_exp: "item", "item.title contains '5 of 6'" %}
 
