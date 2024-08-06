@@ -51,13 +51,24 @@ One more issue was exhaustion. I had 'taken off work' this week, but really just
 
 However, HB did have two successes... he completed a 500pc Groot Lego set meant for 10+... and more importantly... lost his first tooth. Well, really it was his first lost naturally. He's lost a few others due to vitamin gummies. (These are the devil's dentistry tool)
 
-## Day 4 of cycle
+## Day 4 of cycle (Saturday)
 
+Extremely tired.. I fell asleep for three hours mid day... saw Arya off with Fiona to the pool, and Karen watched HB and his buddy hang out at our place. Video games were the main activity.
+
+That night after my nice 3hr nap I simply passed out on the bed while helping with the bath time.  So I made my way to bed and slept for 11hr:11min!!! How is that possible!
 
 ## Day 5 of cycle
 
+Pain, insomnia, heartburn, nausea... my constant companions.
+HB went with a friend to ride the bike I painted and fixed up for him, and Fiona took Arya to the pool. This gave me time to veg out and try to get some energy back. Pretty certain this day was completely spent just trying to exist.
+
+At night I had insomnia due to the heat, so I curled up downstairs (3° cooler) while listening to a podcast. Finally was able to go to sleep. Woke up to great pain in my hips, familiar to me from the first cycle. So I took an Ibuprofen and went to bed with my podcast. That seemed to work.
 
 ## Day 6 of cycle
+
+Work day, was surprisingly effective given the past few days. However, I've noticed something coming back from cycle 2, loss of taste. Not a total loss as if I'm eating cardboard, but specifically sweetness. This means that when I drink my beloved coffee in the morning with a dash of pure Splenda, I don't taste a lovely bouquet of the dark roast coco smooth and sweet delight...but an ashtray bitterness instead.  Next my bagel with butter tastes like bland paper, and my bowl of raspberries in oat milk with a dash of sugar sprinkled on top tastes like I'm eating hair.
+
+That being said, I think my energy was returning. I took HB for our normal walk, returning rather exhausted but recovered quickly, then it was time for some Narnia book 3 with HB and off to sleep... I hope.)
 
 ## Day 7 of cycle (final shot)
 
@@ -70,6 +81,6 @@ However, HB did have two successes... he completed a 500pc Groot Lego set meant 
 ## Next Update:  
 
   {% for post in posts %}
-[{{ post.title }}]({{ post.url }})
+[{{ post.title }}]({{ post.url }})Karen and 
   {% endfor %}
 {% endif %}
