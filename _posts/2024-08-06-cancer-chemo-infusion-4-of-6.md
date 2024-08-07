@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "July 30, '24 - Chemo Infusion #4 of 6"
+title: 'July 30, ''24 - Chemo Infusion #4 of 6'
 categories:
-  - Life
-  - Cancer
-  - Cancer Update
+- Life
+- Cancer
+- Cancer Update
 tags:
-  - Cancer
-  - Medical Insurance SNAFU
+- Cancer
+- Medical Insurance SNAFU
 excerpt: PSA 0.03! The return of the Karen.
+date: 2024-08-06 22:27 -0700
 ---
-
 - PSA: 0.03!
 - Support: Karen parte deux!
-- Approx cost for the year: $130,000
+- Approx cost thus far for the year: $130,000, and one silver dollar paid for a lost tooth
 
 Karen arrived late night Sunday, so I had to retreat to the shared office and abandon the beautiful workstation I'd setup for my support guests. This includes a 49" HDR 1000R Curved monitor... my support staff are living swank.  The kids were having some meltdowns while mom was picking her up... so Karen had to say hello to one of them from time-out! 
 
@@ -66,9 +66,19 @@ At night I had insomnia due to the heat, so I curled up downstairs (3° cooler) 
 
 Work day, was surprisingly effective given the past few days. However, I've noticed something coming back from cycle 2, loss of taste. Not a total loss as if I'm eating cardboard, but specifically sweetness. This means that when I drink my beloved coffee in the morning with a dash of pure Splenda, I don't taste a lovely bouquet of the dark roast coco smooth and sweet delight...but an ashtray bitterness instead.  Next my bagel with butter tastes like bland paper, and my bowl of raspberries in oat milk with a dash of sugar sprinkled on top tastes like I'm eating hair.
 
-That being said, I think my energy was returning. I took HB for our normal walk, returning rather exhausted but recovered quickly, then it was time for some Narnia book 3 with HB and off to sleep... I hope.)
+On the flip side of that disgustingly aspect of the day, I think my energy was returning. I took HB for our normal walk, returning rather exhausted but recovered quickly, then it was time for some Narnia book 3 with HB and off to sleep... I hope.)
 
 ## Day 7 of cycle (final shot)
+
+This day was a bit interesting. I started out pretty high energy, and got kids off to school with their mom. I then proceeded to have a pretty decent workday, accomplishing a few tasks for the team, and assisting some of my teammates with unblocking their own projects.
+
+After preparing most of the dinner I decided to take out the trash and recycling.  Yet something was weird. The bags and bins were much heavier than what I perceived them to be, and it was as if my biceps were doing 100lb curls. The muscles felt strained and sore immediately as if I'd been working out for an hour, but it was mere minutes. Taking the bins down our steep driveway was a struggle, even thought this is relatively easy for me normally. When I made my way back up to the house, I found my quads burning as if I were on a high-altitude climb, muscles deprived of oxygen and lungs straining to keep up.  I actually had to take a break half way up the 50 foot driveway!
+
+I barely made it back into the house and into a couch to recover. Within minutes the kids returned, and HB rang the doorbell as he loves to do, even knowing how to get inside. There was confusion as to who would go answer the door and this is when something odd happened. It was like having a panic attack, but with emotions. A dark cloud came over me and I got frustrated or angry about the situation and lost my normally cool demeanor for a minute.  Next, within seconds, the most sad feeling came over me about it. When HB entered and came over excited to see his dad, I delicately (using all my dad powers) asked him to give me 5 minutes to regroup. Amazingly this was effective and was able to be on my own while the rest sat down to dinner.
+
+I was able to sit down to dinner, but the unexplainable sadness remained for an hour or so... thankfully leaving after my lovely Fiona made me some ginger tea.
+
+These feelings are all normal aspects of hormone therapy, not to mention being under the threat of death for the last 6 months.  The doctors say the medicines for prostate cancer basically give you all the symptoms of a women in menopause, complete with hot flashes, headaches, bone pain, nausea, and this recent unexplained mood swing... To all women going through this... I salute you.
 
 ## Other things to mention
 
@@ -76,7 +86,7 @@ My siblings have given me such joy over the last 12 weeks I can't explain how it
 
 My siblings have stepped up to this challenge and have done a valiant effort for Fiona and I. As these cycles seem to get tougher, I can see how hard the first ones with so much unknown effects were made so much easier by their presence. Yet we have also noticed our own abilities in the negative spaces of this support, where we have actually been able to 'get it done' and 'push through' without support. This makes me feel proud of myself, but mostly Fiona, who is doing a great job balancing the life of our kids, her PhD, Job, and the extreme stress and anxiety of this treatment and scary morbid thought inducing illness.
 
-The next cycle will start on a Friday. Which, if the pattern we are seeing continues, means that on the third or forth day I will be under the worst effects. However this time they will be mid week when kids are mostly at school.  By that following weekend, we are hoping that my energy will have returned in time for a big birthday bash on HB's birthday. To this end, and since it is hard for siblings to come out this time, we are going to try something radical, going without support in house.  Of course we will have support of DoorDash and maybe a babysitter for that first weekend, but that is all.
+The next cycle will start a few weeks from now on a Friday. Which, if the pattern we are seeing continues, means that on the third or forth day I will be under the worst effects. However this time being a Monday, they will be mid week when kids are mostly at school.  By that following weekend, we are hoping that my energy will have returned in time for a big birthday bash on HB's birthday. To this end, and since it is hard for siblings to come out this time, we are going to try something radical, going without support in house.  Of course we will have support of DoorDash and maybe a babysitter for that first weekend, but that is all.
 
 I think we can do it, do you?  See you in the next update.
 
