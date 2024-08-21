@@ -13,7 +13,7 @@ date: 2024-08-06 22:27 -0700
 ---
 - PSA: 0.03!
 - Support: Karen parte deux!
-- Approx cost thus far for the year: $130,000, and one silver dollar paid for a lost tooth
+- Aprox cost thus far for the year: $130,000, and one silver dollar paid for a lost tooth
 
 Karen arrived late night Sunday, so I had to retreat to the shared office and abandon the beautiful workstation I'd setup for my support guests. This includes a 49" HDR 1000R Curved monitor... my support staff are living swank.  The kids were having some meltdowns while mom was picking her up... so Karen had to say hello to one of them from time-out! 
 
