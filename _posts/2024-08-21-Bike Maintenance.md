@@ -2,12 +2,14 @@
 layout: post
 title: Bike Maintenance
 categories:
-  - DIY
+- DIY
 tags:
-  - DIY
-  - Biking
-  - Bikes
-excerpt: Quick list of tools I value when doing repairs on my bikes, as well as some advice.
+- DIY
+- Biking
+- Bikes
+excerpt: Quick list of tools I value when doing repairs on my bikes, as well as some
+  advice.
+date: 2024-08-21 12:22 -0700
 ---
 I was answering a co-worker's question on what tools to buy to get into bike maintenance, and made this very rough list of items that I'll try to keep updated if I think of more.  Start slow, and don't buy everything at once, only as you need them for the current project. Buy quality tools that will last a lifetime, but don't go crazy, some tools really don't need to be from expensive brands.
 
