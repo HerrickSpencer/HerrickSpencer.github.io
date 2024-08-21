@@ -1,0 +1,2 @@
+- Update the GitHub pages settings to include the www.HerrickSpencer.blog url as the custom domain
+- Update the namecheap settings to add a CNAME for www.HerrickSpencer.blog and not the wildcard one (which leads to take over)
