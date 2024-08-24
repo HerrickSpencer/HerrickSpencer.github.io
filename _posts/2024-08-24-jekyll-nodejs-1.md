@@ -2,17 +2,19 @@
 layout: post
 title: Jekyll sites with Node and ExpressJS to Authenticate users! (Part 1)
 categories:
-  - Programming
+- Programming
 tags:
-  - websites
-  - nodeJS
-  - expressJS
-  - Jekyll
-  - Chirpy
-excerpt: Have you ever wanted a bit more from your Jekyll static site? Something like adding authentication or database serving data to certain pages? Join my adventure to learn how.
-image: /assets/img/postMedia/JekyllWithNodeJS.png
+- websites
+- nodeJS
+- expressJS
+- Jekyll
+- Chirpy
+excerpt: Have you ever wanted a bit more from your Jekyll static site? Something like
+  adding authentication or database serving data to certain pages? Join my adventure
+  to learn how.
+image: "/assets/img/postMedia/JekyllWithNodeJS.png"
+date: 2024-08-24 12:36 -0700
 ---
-
 Have you ever wanted a bit more from your Jekyll static site?
 
 - Something like adding authentication or database serving data to certain pages?
