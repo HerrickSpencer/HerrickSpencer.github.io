@@ -3,7 +3,7 @@
     "tasks": [
       {
         "label": "jekyll",
-        "command": "bundle exec jekyll serve --drafts",
+        "command": "bundle exec jekyll serve --drafts --incremental",
         "type": "shell"
       }
     ]

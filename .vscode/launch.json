@@ -6,8 +6,8 @@
   "configurations": [
     {
       "type": "msedge",
-      "request": "attach",
-      "name": "Attach",
+      "request": "launch",
+      "name": "Launch",
       "preLaunchTask": "jekyll"
     }
   ]
