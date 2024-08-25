@@ -93,6 +93,16 @@ Steps:
       app.use('/assets', express.static(join(process.cwd(), 'src', '_site', 'assets')));
       ```
 
+8. Why not use a express.static for everything?
+
+Well, mostly because I didn't think bout it till later in the learning process, but I'm glad for that because I got to understand the middleware flow and other items of discovery that learning this early would have short-circuited. 
+
+However, I'd say that even with this, using the static method for serving the *_site* folder directly would have not allowed for some of the more interesting auth steps I'd like to take. But I'll see if this is enough to leave in the next stage where I write some middleware for the auth check like so:
+
+``` javascript
+app.use('/', isAuthenticated, express.static('src/_site'));
+```
+
 ## Success
 
 And it works!  
