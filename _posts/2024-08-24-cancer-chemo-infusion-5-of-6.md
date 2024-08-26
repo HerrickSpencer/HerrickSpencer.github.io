@@ -68,7 +68,9 @@ I've had as much liquid as could go down my throat as well as a **very** nice sm
 
 ## Day 2 of cycle
 
-TBD
+We planned ahead and had a babysitter for the weekend and Monday due to a teacher appreciations day where the kids will be at home tomorrow. This meant that Fiona could go to her normal yoga routine while I made breakfast for the kids and got them ready for the day. After the sitter arrived I was able to take it easy, and even got a brief nap in.
+
+HB and I planned to make a dish for dinner from a cookbook we'd bought that had a bunch of recipes from the Studio Ghibli movies. Tonight we made Onion Soba Noodles from Only Yesterday. It was fantastic.
 
 ## Day 3 of cycle
 
