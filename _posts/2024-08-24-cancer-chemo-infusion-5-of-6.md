@@ -26,9 +26,8 @@ date: 2024-08-24 15:14 -0700
 - [Day 5 of cycle](#day-5-of-cycle) = 2024/08/28
 - [Day 6 of cycle](#day-6-of-cycle) = 2024/08/29
 - [Day 7 of cycle (final shot)](#day-7-of-cycle-final-shot) = 2024/08/30
-- [Day 8 of cycle? (HB's birthday!)](#HBs-Birthday) = 2024/08/31
+- [Day 8 of cycle? (HB's birthday!)](#hbs-birthday) = 2024/08/31
 - [Other things to mention](#other-things-to-mention)
-- [Next Update:](#next-update)
 
 I realized this round that really it is the week after infusion, and not even the day of that is the bad days... particularly days 4-8ish of the cycle that are the worst.  So in that frame of mind of it really being a week each round, that I only have 2 weeks of bad days left, with 2 weeks in between.  Not so bad when looking at it from that point of view.
 
@@ -38,7 +37,7 @@ Day started with me sleeping in big bed with kids... like a rock. I didn't even 
 
 I'm sure her mood was not improved by the fact that we forgot to put the ice packs we use to stave off neuropathy into the freezer the night before, so we had luke warm packs to try and save me from nerve damage in my feet and hands.  I opted to bring all the freezer packs we use for lunches and ouchies.  We ended up using them to decent effect.
 
-The port access and blood draw is always the first order of the day, which went find despite me being in very down mood. It improved with the introduction of sugary croissant and tall americano after the appointment. The blood levels are normal as expected, with my platlets lower, but better than one could hope on the 5th treatment of these poisons.
+The port access and blood draw is always the first order of the day, which went find despite me being in very down mood. It improved with the introduction of sugary croissant and tall americano after the appointment. The blood levels are normal as expected, with my platelets lower, but better than one could hope on the 5th treatment of these poisons.
 
 ### Corrections about PET vs PSA
 
@@ -116,7 +115,8 @@ I'm just so glad and anxious that I am only one cycle away from completing this 
 {% assign posts = site.posts | where_exp: "item", "item.title contains '6 of 6'" %}
 
 {% if posts.size > 0 %}
-## Next Update:  
+
+## Next Update
 
   {% for post in posts %}
 [{{ post.title }}]({{ post.url }})Karen and 
