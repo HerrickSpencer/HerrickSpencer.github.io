@@ -20,9 +20,6 @@ date: 2024-08-24 15:14 -0700
   - [Possible admission to a UW cancer trial](#possible-admission-to-a-uw-cancer-trial)
   - [Lunch at our new ritual restaurant](#lunch-at-our-new-ritual-restaurant)
 - [Day 1 of cycle](#day-1-of-cycle) = 2024/8/24
-- *Next update in a day or so. Check back til this note is gone*
-
-<!--
 - [Day 2 of cycle](#day-2-of-cycle) = 2024/08/25
 - [Day 3 of cycle](#day-3-of-cycle) = 2024/08/26
 - [Day 4 of cycle](#day-4-of-cycle) = 2024/08/27
@@ -31,12 +28,11 @@ date: 2024-08-24 15:14 -0700
 - [Day 7 of cycle (final shot)](#day-7-of-cycle-final-shot) = 2024/08/30
 - [Day 8 of cycle? (HB's birthday!)](#HBs-Birthday) = 2024/08/31
 - [Other things to mention](#other-things-to-mention)
-- [Next Update:](#next-update) 
--->
+- [Next Update:](#next-update)
 
 I realized this round that really it is the week after infusion, and not even the day of that is the bad days... particularly days 4-8ish of the cycle that are the worst.  So in that frame of mind of it really being a week each round, that I only have 2 weeks of bad days left, with 2 weeks in between.  Not so bad when looking at it from that point of view.
 
-## Day 0 of cycle : injection 
+## Day 0 of cycle : injection
 
 Day started with me sleeping in big bed with kids... like a rock. I didn't even hear them come in. Kids and I woke up while Fiona was working out downstairs and we happily played and joked til she came up and yelled at us to get our lazy butts up. That sure changed the mood... 
 
@@ -68,37 +64,54 @@ I've had as much liquid as could go down my throat as well as a **very** nice sm
 
 ## Day 2 of cycle
 
-We planned ahead and had a babysitter for the weekend and Monday due to a teacher appreciations day where the kids will be at home tomorrow. This meant that Fiona could go to her normal yoga routine while I made breakfast for the kids and got them ready for the day. After the sitter arrived I was able to take it easy, and even got a brief nap in.
+We planned ahead and had a babysitter for the weekend and Monday due to a teacher appreciations day where the kids will be at home tomorrow. This meant that Fiona could go to her normal yoga routine while I made breakfast for the kids and got them ready for the day. After the sitter arrived I was able to take it easy, and even got a brief nap in. Muscle soreness is the biggest issue right now, everything I do feels like I've been lifting weights at the gym.
 
 HB and I planned to make a dish for dinner from a cookbook we'd bought that had a bunch of recipes from the Studio Ghibli movies. Tonight we made Onion Soba Noodles from Only Yesterday. It was fantastic.
+![Chopping](../assets/img/postMedia/HB_Cooking_Chop.jpg){: height="200" width="250"}
+![Stove](../assets/img/postMedia/HB_Cooking_Stove.jpg){: height="200" width="250"}  
+![Finished](../assets/img/postMedia/HB_Cooking_Finish.jpg){: height="300" width="300"}  
 
 ## Day 3 of cycle
 
-TBD
+Nausea and muscle aches, nausea mostly is the issue...
+
+I got some work done, had a few necessary meeting with colleagues, but was super certain this was not going well.  I barely helped with the kids routine and dinner/bath-time. Luckily Larissa came through with a turkey lasagna so dinner was much more manageable... I ate too much of it and was forced to go to bed early by Fiona when I was acting like a zombie.
 
 ## Day 4 of cycle
 
-TBD
+Took the day off.... nausea was a beast of a thing and so tired I didn't want to do anything but watch TV in-between bouts of napping on the couch.  Appetite was still high though, I'd guess because I'm regrowing most of my blood supply and likely trying to replace the lost muscle mass being destroyed.  Weight has not changed (luckily?).
 
 ## Day 5 of cycle
 
-TBD
+More of yesterday, nausea and couch napping... I feel like dirt.
 
 ## Day 6 of cycle
 
-TBD
+Why not make it a trifecta?!
 
 ## Day 7 of cycle (final shot)
 
-TBD
+Friday and feeling a very small bit better... had some meetings with colleagues and developing some plans for our feature rollout policies.  Ironically this was supposed to be our coordinated day off at work, but at least three of us were still working.
+
+I was even able to run out to pickup the cake and some last supplies for HB's birthday bash tomorrow.
 
 ## HBs Birthday
 
-TBD
+This was a blast... I'm so glad my energy was finally returning just in time, and that I'd prepared the week prior so it didn't have to be done while I was under the influence of the dark side of medicine.
+
+We got down to the park and started setting up the picnic area with table cloths, banners, and balloons; all were in a Minecraft style. We had more friends show up than expected being a three day weekend. We had a Minecraft Creeper pinata that was a hit (pun intended). It was lovely to have a last gathering of pre-school friends before all of the kids head off to separate elementary schools.
+
+Sofia, officially HB and Arya's Aunt or Sister (we haven't figured out the DNA yet), was rushing to the park to help out... and unfortunately was in a car accident... I felt horrible for her, but glad all were unharmed in the event.  She trooped on and was a god-send at the event as always.  And... as always, Arya captivated most of her time as if she was her possession. Thank you Sofia, you are an angel.
+
+Shout out to "GA", the hit of the party, a newborn baby that has been anxiously awaited for by the parents for the last 3+ years.  I'm so happy for the parents and congrats to them... I had so much fun holding this little dude, as did Arya (til she got bored and pushed him back to mom).
+
+As soon as I arrived home, I passed out on the couch for an hour.... it was a long hot 87°F day with too much energy spent. Boy was it fun.
 
 ## Other things to mention
 
-TBD
+The solo run experiment was a mild success I'd say... it was not impossible as we thought, but with each cycle being harder than the last, it was not super easy either. I definitely prefer the help in the mornings and bed-time. I was utterly useless to Fiona at times, which I'm sure was not easy for her, so a big 'I love you' to Fiona... my partner in this stupid adventure.
+
+I'm just so glad and anxious that I am only one cycle away from completing this ridiculously barbaric and stone-age level 'medical therapy'.
 
 {% assign posts = site.posts | where_exp: "item", "item.title contains '6 of 6'" %}
 
