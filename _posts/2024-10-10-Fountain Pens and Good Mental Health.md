@@ -7,6 +7,7 @@ tags:
 - Fountain_Pens
 - Journaling
 - Mental_Health
+image: /assets/img/postMedia/FountainPens/preview.jpg
 date: 2024-10-10
 ---
 Fountain pens have saved my life in many ways... and they can help you too.  
