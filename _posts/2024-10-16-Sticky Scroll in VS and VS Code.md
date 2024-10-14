@@ -14,7 +14,7 @@ The "Sticky Scroll" feature in Visual Studio helps you stay oriented while worki
 ## Where am I now?! I want to go home
 
 The main benefit to this feature is that it 'freezes' the outer scope of the block you are at the top of the editor. This line is also a link to allow you to click on it and jump to the top of that block. Each subsequent block gets a line frozen below as you scroll down the file. This allows you to see a hierarchical group of lines at the top of the editor to always let you know what block you are editing, and allow you to navigate between them.  It is similar to the breadcrumb features you see in websites, but with all the details displayed on each line.
-![scoping](/assets/img/postMedia/sticky-scroll-Scope)
+![scoping](/assets/img/postMedia/sticky-scroll-Scope.png)
 
 In a large file, or one with a confusing set of nested items, especially when they all are named similarly, this is incredibly useful to keep you grounded in your work. No longer are you 'lost' in the file spending time scrolling up to see what name you had used for a parameter, or if you made it a const ref or not. You will be able to see it directly, or if editing is needed hop back to make the edit.
 
