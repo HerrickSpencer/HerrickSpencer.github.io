@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Embracing Adventure and Encouraging Curiosity
-excerpt: "Granny’s Wisdom: The 70' high farm silo climbing story."
+excerpt: 'Granny’s Wisdom: The 70'' high farm silo climbing story.'
 categories:
-  - Life
-  - Family Lore
+- Life
+- Family Lore
 tags:
-  - Parenting
-  - Adventure
-  - Farm_Life
+- Parenting
+- Adventure
+- Farm_Life
+image: "/assets/img/postMedia/Silo/SiloAndBarn.jpg"
+date: 2024-10-23 00:00 +0000
 ---
 ## {{ page.excerpt | markdownify | strip_html }}
 
@@ -22,4 +24,6 @@ Well I slowly white knuckled my way up that rickety ladder and pushed through th
 
 After staying up there longer than I wanted, due to being more afraid of the climb down than my strangle hold on the bars of the perch I was on, I started making my way back down. Upon finally making it back onto solid ground I needed a rest and made my way back to Granny’s to recuperate. 
 
-When I went inside, there was Granny at the front kitchen table drinking her afternoon tea.  I explained what I’d just been up too (pun intended) and how high I’d been above the Vermont soil. Now, those of you with Grannies of the normal variety would expect her to hem and haw, or even scold or punish me for climbing this dangerous trek at such a young age. But that is not who my Granny was. She was always up for an adventure, and loved to hear about mine and my cousins, even late into our adulthoods. No, my Granny did scold me… but it was “Oh My! you should bring a camera up there next time!”  I’ve always loved that about her, and use that type of style when I converse with young people myself. Don’t get in the way of their adventures, give them good advice on how to make it better and maybe safer, enhance the natural curiosity of the adventurous youth so you can vicariously enjoy the pictures when they return from the summits of life.
+When I went inside, there was Granny at the front kitchen table drinking her afternoon tea.  I explained what I’d just been up too (pun intended) and how high I’d been above the Vermont soil. Now, those of you with Grannies of the normal variety would expect her to hem and haw, or even scold or punish me for climbing this dangerous trek at such a young age. But that is not who my Granny was. She was always up for an adventure, and loved to hear about mine and my cousins, even late into our adulthood. No, my Granny did scold me… but it was “Oh My! you should bring a camera up there next time!”  
+
+I’ve always loved that about her, and use that type of style when I converse with young people myself. Don’t get in the way of their adventures, give them good advice on how to make it better and maybe safer, enhance the natural curiosity of the adventurous youth so you can vicariously enjoy the pictures when they return from the summits of life.
