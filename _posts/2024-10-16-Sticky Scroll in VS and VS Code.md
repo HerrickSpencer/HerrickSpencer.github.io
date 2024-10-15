@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOW: Sweet and Sticky Scrolling in Visual Studio and Code'
-date: 2012-10-16
+date: 2024-10-16
 categories: [Tip Of The Week, Programming]
 tags: [Tip Of The Week, Visual Studio, Visual Studio Code]
 image: /assets/img/postMedia/sticky-scroll-example-cplusplus.gif
@@ -55,7 +55,6 @@ Each model has its own way of defining what gets "stuck" at the top of the edito
 
 ## More info
 
-See more info about the feature on the official VS blog:
-https://learn.microsoft.com/en-us/visualstudio/ide/editor-sticky-scroll
+See more info about the feature on [the official VS blog](https://learn.microsoft.com/en-us/visualstudio/ide/editor-sticky-scroll)
 
 I find this feature incredibly useful, and hope you discover it as such.  Congrats VS team, great addition.
