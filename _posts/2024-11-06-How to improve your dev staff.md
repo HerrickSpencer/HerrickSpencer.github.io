@@ -1,11 +1,20 @@
 ---
 title: Improve your dev staff by pairing seniors with juniors.
-description: If your senior dev is not able to fire at full capacity, pairing them
-  with a junior developer can help tackle senior-level features and enhance your team's
-  overall skills and efficiency at the same time!
+description: Pairing senior devs with juniors can help tackle senior-level features and enhance your team's skills and efficiency.
 categories:
+  - Productivity
+  - Technology
+  - Programming
 tags:
+  - career development
+  - feature delivery
+  - mentorship
+  - productivity strategies
+  - software development
+  - team collaboration
+  - team growth
 date: 2024-11-06 00:00 +0000
+image: /assets/img/postMedia/SeniorAndJuniorDevs.jpeg
 ---
 In the start of this year I was about to embark on a medical treatment plan that would make it very hard for me to predict what days I'd be able to fully engage my work tasks. So I made a plan with my dev lead to not put me on anything with time sensitivity (spoiler this may not have happened), and instead to be a mentor to the junior members on their features.  This turned out to be a great experience for me, as well as an improvement to the team's growth and abilities.
 
