@@ -9,7 +9,7 @@ on:
       - README.md
       - LICENSE
   schedule:
-    - cron: "0 7 * * 4"  # Weekly on Thursday at 07:00 UTC (PT 00:00)
+    - cron: "0 7 * * 3"  # Weekly on Wednesday at 07:00 UTC (PT 00:00)
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
