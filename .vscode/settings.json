@@ -3,5 +3,6 @@
         "Bujo",
         "Carbonesque",
         "Sheaffer"
-    ]
+    ],
+    "editor.tabCompletion": "onlySnippets"
 }
