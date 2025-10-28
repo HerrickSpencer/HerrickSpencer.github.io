@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "TOW: AI Task Flow Demonstration with GitHub CoPilot"
+title: 'TOW: AI Task Flow Demonstration with GitHub CoPilot'
 categories:
-  - Programming
+- Programming
 tags:
-  - AI
-  - CoPilot
-  - GitHub
-  - Visual Studio
-  - Visual Studio Code
-  - VS Code
-  - prompt engineering
-image: /assets/img/postMedia/AI%20Task%20Flow/AI%20Task%20Flow%20Banner.png
+- AI
+- CoPilot
+- GitHub
+- Visual Studio
+- Visual Studio Code
+- VS Code
+- prompt engineering
+image: "/assets/img/postMedia/AI%20Task%20Flow/AI%20Task%20Flow%20Banner.png"
 date: 2025-10-28 00:00 +0000
 ---
 ![TOW](/assets/img/postMedia/TipOfTheWeek.jpg){: width="200" .left}
