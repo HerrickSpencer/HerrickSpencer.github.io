@@ -11,8 +11,8 @@ tags:
   - Visual Studio Code
   - VS Code
   - prompt engineering
-image: /assets/img/postMedia/ProtocolMetadataButton.png
-date: 2025-02-03 00:00 +0000
+image: /assets/img/postMedia/AI%20Task%20Flow/AI%20Task%20Flow%20Banner.png
+date: 2025-10-28 00:00 +0000
 ---
 ![TOW](/assets/img/postMedia/TipOfTheWeek.jpg){: width="200" .left}
 
@@ -47,21 +47,11 @@ _Built and sold 3 startups._
 
 ## Multi-step, interactive code changes vs. single prompt edits
 
-<table>
-<tr>
-<td colspan=2>The multi step flow at first seems longer... but results in fewer iterations for changes due to confusion (by the AI) and results in way more documentation such as a full spec and dev plan. There is more maintainability overall with  clarity of the changes.</td>
-</tr>
-<tr>
-<td style="width:50%; vertical-align:top; text-align:center; padding-right:10px;">
+The multi step flow at first seems longer... but results in fewer iterations for changes due to confusion (by the AI) and results in way more documentation such as a full spec and dev plan. There is more maintainability overall with  clarity of the changes.
 
-![Single step flow](/assets/img/postMedia/AI%20Task%20Flow/Single%20Flow.png)</td>
-<td style="width:50%; vertical-align:top; text-align:center; padding-right:10px;">
+![Single step flow](/assets/img/postMedia/AI%20Task%20Flow/Single%20Flow.png)
 
 ![Multi step flow](/assets/img/postMedia/AI%20Task%20Flow/Multi%20Flow.png)
-
-</td>
-</tr>
-</table>
 
 Single Prompt | AI Spec Task Flow
 -- | --
