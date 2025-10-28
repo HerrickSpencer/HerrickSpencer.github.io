@@ -16,7 +16,7 @@ tags:
 - Tip Of The Week
 - Visual Studio
 ---
-![TOW](/{{ site.postMedia }}/TipOfTheWeek.jpg)
+![TOW]({{ site.postMedia }}/TipOfTheWeek.jpg)
 
 In the most recent update of Visual Studio, one of the new features is the ability to convert a LINQ query to a `foreach` statement. When this was pointed out to me in an email, I jokingly responded, “Why would you want to do that!?” because I favor Lambda and LINQ statements over `for`/`foreach`.
 
@@ -38,7 +38,7 @@ In the two examples of inline lambda and LINQ on lines 2 and 3, it is common for
 
 Well, you can do this easily! Just place the cursor on the `StartsWith` prior to hitting F9 to add a breakpoint at that point. It will indicate that this section of the line will be the breakpoint by highlighting just the `x.StartsWith("the")` portion of that line. It will now hit that code each time as it enumerates through the array.
 
-![Debugging](/{{ site.postMedia }}/2018/07/image_thumb.png)
+![Debugging]({{ site.postMedia }}/2018/07/image_thumb.png)
 
 I’m sure that there are MANY of you who know about this, and likely have known for years… but it is my experience that there are just as many who have never seen this and have been frustrated with this ‘inability of Visual Studio’ that are now happy to find the answer.
 

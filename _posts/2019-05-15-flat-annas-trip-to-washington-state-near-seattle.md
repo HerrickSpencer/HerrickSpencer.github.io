@@ -13,14 +13,14 @@ Recently, Anna’s class has done a project on a book called “Flat Stanley” 
 
 ## Flat Anna
 
-![FlatAnna description](/{{ site.postMedia }}/2019/05/flatanna-description_thumb.jpg)
-![FlatAnna reply](/{{ site.postMedia }}/2019/05/flatanna-reply_thumb.jpg)
+![FlatAnna description]({{ site.postMedia }}/2019/05/flatanna-description_thumb.jpg)
+![FlatAnna reply]({{ site.postMedia }}/2019/05/flatanna-reply_thumb.jpg)
 
 ## Flight to the West Coast
 
 The trip here by car would take 52-1/2 hours non-stop and probably be easier by taking a plane (6 hours)… but you wouldn’t get the views along the way! Beautiful North Dakota!
 
-![image](/{{ site.postMedia }}/2019/05/image_thumb.png)
+![image]({{ site.postMedia }}/2019/05/image_thumb.png)
 
 Nope, you didn’t take a week to drive here—you smartly flew. Bonus points: you got to see some beautiful shots of Mount Rainier! Mt. Rainier is Washington’s highest mountain and the highest mountain by prominence in the continental US (that means from base elevation to peak, it beats all others). It is an active stratovolcano with a summit of 14,411 feet, and many people each year attempt to scale its glacier peak. It was/is also known as Tacoma by the indigenous peoples of the area, and it is how one of our biggest cities got its name.
 

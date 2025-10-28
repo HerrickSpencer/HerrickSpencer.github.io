@@ -12,7 +12,7 @@ If you ever want more detailed pictures of the finished project, or explanation 
 
 ## Project Completed 2014/04/07
 
-[![WP_20140408_007](/{{ site.postMedia }}/2014/04/wp_20140408_007_thumb2.jpg "WP_20140408_007")](/{{ site.postMedia }}/2014/04/wp_20140408_0072.jpg){: .left} In our apartment living life, we always seemed to have a ‘gym’ on the community property that we could make use of for working out. Since moving to a house, we have lost that luxury, and are replacing it with our own version.
+[![WP_20140408_007]({{ site.postMedia }}/2014/04/wp_20140408_007_thumb2.jpg "WP_20140408_007")]({{ site.postMedia }}/2014/04/wp_20140408_0072.jpg){: .left} In our apartment living life, we always seemed to have a ‘gym’ on the community property that we could make use of for working out. Since moving to a house, we have lost that luxury, and are replacing it with our own version.
 
 I’ve assembled the treadmill that my wife likes to use for her workouts, but this is not conducive to my worn out knees. Teenage me took too much pleasure in the mogul fields of Vermont to have any cartilage left for high impact sports like jogging in place. Thus, my workouts consist more of mountain biking, hiking, climbing, and martial arts.
 
@@ -36,9 +36,9 @@ I also hung the bag from the rope using two screw gate carabineers (hardware ver
 
 I only think one addition may be needed, and that is something to allow the bag to spin, without the cord from twisting. I’m going to go to the hardware store and find this component, and install it at the top of the spring to free the cord from the bags effect.
 
-[![WP_20140408_010](/{{ site.postMedia }}/2014/04/wp_20140408_010_thumb1.jpg "WP_20140408_010")](/{{ site.postMedia }}/2014/04/wp_20140408_0101.jpg)
+[![WP_20140408_010]({{ site.postMedia }}/2014/04/wp_20140408_010_thumb1.jpg "WP_20140408_010")]({{ site.postMedia }}/2014/04/wp_20140408_0101.jpg)
 
-[![WP_20140408_007](/{{ site.postMedia }}/2014/04/wp_20140408_007_thumb3.jpg "WP_20140408_007")](/{{ site.postMedia }}/2014/04/wp_20140408_0073.jpg)   [![WP_20140408_011](/{{ site.postMedia }}/2014/04/wp_20140408_011_thumb1.jpg "WP_20140408_011")](/{{ site.postMedia }}/2014/04/wp_20140408_0111.jpg)
+[![WP_20140408_007]({{ site.postMedia }}/2014/04/wp_20140408_007_thumb3.jpg "WP_20140408_007")]({{ site.postMedia }}/2014/04/wp_20140408_0073.jpg)   [![WP_20140408_011]({{ site.postMedia }}/2014/04/wp_20140408_011_thumb1.jpg "WP_20140408_011")]({{ site.postMedia }}/2014/04/wp_20140408_0111.jpg)
 
 The solution works great. There is plenty of room to do full roundhouse kicks to the ‘head’ of the bag. The bag doesn’t move very much during normal strikes, and is great to get the heart rate up.
 

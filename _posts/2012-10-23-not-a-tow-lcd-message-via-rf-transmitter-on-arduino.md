@@ -25,6 +25,6 @@ I plan on wiring up the LCD a bit more permanently, and making a nice enclosure 
 
 #### The site
 
-![clip_image001](/{{ site.postMedia }}/2012/10/clip_image001.jpg "clip_image001")_Here’s a shot of the website, complete with picture of the cube wall_
+![clip_image001]({{ site.postMedia }}/2012/10/clip_image001.jpg "clip_image001")_Here’s a shot of the website, complete with picture of the cube wall_
 
-[![clip_image003](/{{ site.postMedia }}/2012/10/clip_image003_thumb.jpg "clip_image003")_Here’s a shot of the Arduino wired to the transmitter and LCD_](/{{ site.postMedia }}/2012/10/clip_image003.jpg)
+[![clip_image003]({{ site.postMedia }}/2012/10/clip_image003_thumb.jpg "clip_image003")_Here’s a shot of the Arduino wired to the transmitter and LCD_]({{ site.postMedia }}/2012/10/clip_image003.jpg)

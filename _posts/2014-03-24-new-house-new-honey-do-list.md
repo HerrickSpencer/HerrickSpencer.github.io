@@ -6,7 +6,7 @@ author: herrickspencer
 comments: true
 categories: [DIY, Home Improvement]
 ---
-[![1920209_10202202361438026_30357684_n](/{{ site.postMedia }}/2014/03/1920209_10202202361438026_30357684_n_thumb.jpg "1920209_10202202361438026_30357684_n")](/{{ site.postMedia }}/2014/03/1920209_10202202361438026_30357684_n.jpg){: .right}
+[![1920209_10202202361438026_30357684_n]({{ site.postMedia }}/2014/03/1920209_10202202361438026_30357684_n_thumb.jpg "1920209_10202202361438026_30357684_n")]({{ site.postMedia }}/2014/03/1920209_10202202361438026_30357684_n.jpg){: .right}
 
 My wife and I recently purchased a new house… the first for either of us. We are super excited, and have many plans to alter the inside and out to ‘make it our own’. I have started a ‘Honey Do List’, named because it is the list of things your SO asks “Honey, can you do this?”.So I’m planning on keeping a blog to journal the items and projects that get accomplished and the woes and successes that brings.  Feel free to follow along the journey and comment any suggestions you might provide, or questions for your own projects.
 
@@ -50,7 +50,7 @@ WEEK 2:
 WEEK 3:
 
 * Install garage door opener (90% done)
-  * [![WP_20140408_005](/{{ site.postMedia }}/2014/04/wp_20140408_005_thumb.jpg "WP_20140408_005")](/{{ site.postMedia }}/2014/04/wp_20140408_005.jpg)
+  * [![WP_20140408_005]({{ site.postMedia }}/2014/04/wp_20140408_005_thumb.jpg "WP_20140408_005")]({{ site.postMedia }}/2014/04/wp_20140408_005.jpg)
   * COST/SAVED/TIME/DIFF:  $200/$100/2hr/Moderate
     * $180 for garage door opener
     * $20 for 2x4 & 1x4 bracing
@@ -58,7 +58,7 @@ WEEK 3:
   * Needed to make bracing for the opener to hang from since the ceiling is double height in the garage.
 
 * Install new keyless entry locks
-  * [![WP_20140408_012](/{{ site.postMedia }}/2014/04/wp_20140408_012_thumb.jpg "WP_20140408_012")](/{{ site.postMedia }}/2014/04/wp_20140408_012.jpg)
+  * [![WP_20140408_012]({{ site.postMedia }}/2014/04/wp_20140408_012_thumb.jpg "WP_20140408_012")]({{ site.postMedia }}/2014/04/wp_20140408_012.jpg)
   * COST/SAVED/TIME/DIFF:  $270/$200/1hr/Moderate due to new lock hole drilled
     * New locks x2 = $220
     * rekeying x4 = $50
@@ -74,5 +74,5 @@ WEEK 3:
   * Just needed to replace the flapper (round rubber seal that swings down when the tank fills up) very easy job.
 * Leaking guest tub
   * COST/SAVED/TIME/DIFF:  $15/$50/15min/moderate due to confidence
-  * [![WP_20140322_002](/{{ site.postMedia }}/2014/04/wp_20140322_002_thumb.jpg "WP_20140322_002")](/{{ site.postMedia }}/2014/04/wp_20140322_002.jpg)
+  * [![WP_20140322_002]({{ site.postMedia }}/2014/04/wp_20140322_002_thumb.jpg "WP_20140322_002")]({{ site.postMedia }}/2014/04/wp_20140322_002.jpg)
   * this was new to me… replacing the ‘cassette’ in a shower, better understood as the valve in that type of fixture. very easy to do, but made me nervous. Since there is not shutoff at the fixture, like under a sink, you need to shut off water to the house. If I screwed this up… no water to the house till I can get a plumber out to fix it.

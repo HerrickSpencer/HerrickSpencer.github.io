@@ -17,5 +17,5 @@ I am building a fancy workbench for woodworking, and needed some sawhorses. I ca
 
 Here’s the [shop dog site](https://woodshopdude.com/) where the designs are. My Version:
 
- [![WP_20140706_004](/{{ site.postMedia }}/2014/08/wp_20140706_004_thumb.jpg "WP_20140706_004")](/{{ site.postMedia }}/2014/08/wp_20140706_004.jpg)
- [![WP_20140706_005](/{{ site.postMedia }}/2014/08/wp_20140706_005_thumb.jpg "WP_20140706_005")](/{{ site.postMedia }}/2014/08/wp_20140706_005.jpg)
+ [![WP_20140706_004]({{ site.postMedia }}/2014/08/wp_20140706_004_thumb.jpg "WP_20140706_004")]({{ site.postMedia }}/2014/08/wp_20140706_004.jpg)
+ [![WP_20140706_005]({{ site.postMedia }}/2014/08/wp_20140706_005_thumb.jpg "WP_20140706_005")]({{ site.postMedia }}/2014/08/wp_20140706_005.jpg)

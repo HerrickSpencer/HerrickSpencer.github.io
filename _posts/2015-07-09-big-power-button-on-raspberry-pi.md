@@ -13,4 +13,4 @@ manufacturer: Philmore
 manufacturer part number: 30-10198 SPST Inline Push-Button Floor Switch ON-OFF 1A
 
 Works great!
-[![Big power button for my Raspberry Pi](/{{ site.postMedia }}/2015/07/wp_20150709_001.jpg?w=300)](/{{ site.postMedia }}/2015/07/wp_20150709_001.jpg) _Big power button for my Raspberry Pi_
+[![Big power button for my Raspberry Pi]({{ site.postMedia }}/2015/07/wp_20150709_001.jpg?w=300)]({{ site.postMedia }}/2015/07/wp_20150709_001.jpg) _Big power button for my Raspberry Pi_

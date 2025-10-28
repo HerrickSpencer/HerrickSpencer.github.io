@@ -35,7 +35,7 @@ Todd Tutton sent mail a week ago saying:
 
 I totally agree, Todd.  I’ll add that it is nice to have a place to ‘dump’ things that you don’t know where to store, and need to find easily in the future. OneNote is that place. You don’t need to worry about saving, it works directly on disk, so all changes are instantly saved. It can store nearly any media type, drop a picture, snapshots of screens, audio/video files, a nice feature is right click on an item in Outlook and send to OneNote… it even has a very nice feature for recording. If you are in a meeting that you need to review at a later point, click on the Insert menu, there is a Recording section for audio or video! Great item.
 
-[![clip_image003](/{{ site.postMedia }}/2012/10/clip_image003_thumb1.jpg "clip_image003")](/{{ site.postMedia }}/2012/10/clip_image0031.jpg)
+[![clip_image003]({{ site.postMedia }}/2012/10/clip_image003_thumb1.jpg "clip_image003")]({{ site.postMedia }}/2012/10/clip_image0031.jpg)
 
 One caveat was made by Eusebio that we should not use SkyDrive for sharing work related documents. However Nithin and Jerry pointed out that it is easy enough to share the OneNote Section on https://my or https://ffo sites.
 
