@@ -14,12 +14,10 @@
           if (count > 100) {
             pv.innerText = new Intl.NumberFormat().format(count);
           } else {
-            // Hide the entire pageviews section if count <= 100
             pv.parentElement.style.display = 'none';
           }
         })
         .catch((error) => {
-          // Hide the pageviews section on error as well since we don't know the count
           pv.parentElement.style.display = 'none';
           console.debug('GoatCounter pageviews fetch error:', error);
         });
