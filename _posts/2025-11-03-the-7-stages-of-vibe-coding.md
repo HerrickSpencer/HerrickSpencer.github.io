@@ -15,13 +15,14 @@ tags:
 image: "/assets/img/postMedia/7StagesVibeCoding/7-Stages-Vibe-Coding-Banner.png"
 date: 2025-11-03 00:00 +0000
 ---
+
 ![TOW](/assets/img/postMedia/TipOfTheWeek.jpg){: width="200" .left}
 
 ## The 7 Stages of Vibe Coding
 
 Every developer's AI enhancement journey follows a predictable path. We start as copy-paste warriors and (hopefully) evolve into sophisticated AI collaborators. Sound familiar?
 
-Before diving into the [AI Task Flow](/_posts/2025-10-27-AI%20Task%20Flow%20Demonstration%20with%20GitHub%20Copilot.md) from the previous post, let's explore this natural evolution. I call this progression "The 7 Stages of Vibe Coding" - a journey from basic copy-paste workflows to sophisticated AI collaboration.
+Before diving into the [AI Task Flow]({% post_url 2025-10-27-AI Task Flow Demonstration with GitHub Copilot %}) from the previous post, let's explore this natural evolution. I call this progression "The 7 Stages of Vibe Coding" - a journey from basic copy-paste workflows to sophisticated AI collaboration.
 
 *Where are you on this journey?*
 
@@ -99,7 +100,7 @@ Yet... you still fire off the agent to "do it all" and results, while much impro
 
 ![AI Task Flow](/assets/img/postMedia/7StagesVibeCoding/Stage6-AI-Task-Flow.png){: width="400" .left}
 
-Welcome to the methodology [from the AI Task Flow post](/_posts/2025-10-27-AI%20Task%20Flow%20Demonstration%20with%20GitHub%20Copilot.md)! You start with a highly polished Product Requirements Document (PRD), iterate on details, then generate a comprehensive list of grouped and sub-level tasks. Each step allows for user collaboration, resulting in atomic commits and maintainable code changes.
+Welcome to the methodology [from the AI Task Flow post]({% post_url 2025-10-27-AI Task Flow Demonstration with GitHub Copilot %})! You start with a highly polished Product Requirements Document (PRD), iterate on details, then generate a comprehensive list of grouped and sub-level tasks. Each step allows for user collaboration, resulting in atomic commits and maintainable code changes.
 
 ![Task Flow](/assets/img/postMedia/AI%20Task%20Flow/AI%20Task%20Flow.png)
 
