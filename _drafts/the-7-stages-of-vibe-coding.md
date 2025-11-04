@@ -20,7 +20,11 @@ date: 2025-11-03 00:00 +0000
 
 ## The 7 Stages of Vibe Coding
 
-Before diving into the [AI Task Flow](/_posts/2025-10-27-AI%20Task%20Flow%20Demonstration%20with%20GitHub%20Copilot.md) from the previous post, let's explore the natural evolution most developers experience when adopting AI-assisted coding. I call this progression "The 7 Stages of Vibe Coding" - a journey from basic copy-paste workflows to sophisticated AI collaboration.
+Every developer's AI enhancement journey follows a predictable path. We start as copy-paste warriors and (hopefully) evolve into sophisticated AI collaborators. Sound familiar?
+
+Before diving into the [AI Task Flow](/_posts/2025-10-27-AI%20Task%20Flow%20Demonstration%20with%20GitHub%20Copilot.md) from the previous post, let's explore this natural evolution. I call this progression "The 7 Stages of Vibe Coding" - a journey from basic copy-paste workflows to sophisticated AI collaboration.
+
+*Where are you on this journey?*
 
 <!-- ![7 Stages of Vibe Coding Overview](/assets/img/postMedia/7StagesVibeCoding/7-Stages-Vibe-Coding-Banner.png) -->
 ---
@@ -46,12 +50,19 @@ You graduate to dedicated AI apps with nicer UIs - ChatGPT, Claude, or other age
 <br clear="all">
 
 ### Stage 3: The IDE Integration
-
 #### "Do This" Prompting
 
-![IDE Integration](/assets/img/postMedia/7StagesVibeCoding/Stage3-IDE-Integration.png){: width="400" .right} GitHub Copilot arrives in your IDE! You start using AI directly in Visual Studio or VS Code. Now you have a shiny agent that can actually **write** stuff in to files! Yea!
+![IDE Integration](/assets/img/postMedia/7StagesVibeCoding/Stage3-IDE-Integration.png){: width="400" .right} GitHub Copilot arrives in your IDE! You start using AI directly in Visual Studio or VS Code. Now you have a shiny agent that can actually **write** stuff into files! Yeah!
 
-However, you're still stuck in "do this" mode - firing off minimal prompts with little context, getting minimal goal-oriented results. It's convenient, but often frustrating when the AI misunderstands your intent. Much yelling commences.
+However, you're still stuck in "do this" mode:
+
+- "Create a function that does X"
+- "Fix this bug"  
+- "Add validation here"
+
+Minimal prompts with little context lead to minimal goal-oriented results. It's convenient, but often frustrating when the AI misunderstands your intent. Much yelling at the screen commences.
+
+> "No, not THAT kind of validation!"
 
 <br clear="all">
 
@@ -105,12 +116,51 @@ Your coding collaboration has just reached a new level! Congrats! You are now ab
 
 The ultimate stage involves custom agents that can evaluate all requests without false agreement, ensuring that the planning and task organization of Stage 6 is always performed correctly. These agents push back when needed and maintain high standards for the development process.
 
-For this stage I created an agent I call "SnottyBot" that is rather short with me about my ideas... no kissing my butt. It often calls the code "a mess" and is quick to point out that the task I've asked it to do is less than ideal. It offers an evaluation of the idea, pros and cons of the approach, and offers its own recommendations.  It can be a bit snippy at times too. Direct quote after I pointed out some style issues in the latest change. "Ok, I've fixed these issues. Would you like to proceed to the next task, or would you rather sit around micro-managing my whitespaces?"
+For this stage, I created an agent I call "SnottyBot" that refuses to kiss my butt. It often calls my code "a mess" and is quick to point out when my task requests are less than ideal.
 
-I'm planning on adding to it the ability to check that I (or really it) have actually done the step of PRD and Task creation, and that there is an initial document detailing the project for it to use. This would save me a ton of time when I forget to add these to my prompts.
+**SnottyBot in action:**
 
-### Conclusion
+- Evaluates ideas with brutal honesty
+- Lists pros and cons without sugar-coating  
+- Offers better recommendations (whether you want them or not)
+- Can be delightfully snippy
 
-Most developers I've talked to are somewhere between Stage 2 and 4. Your goal is to rise up from the depth of Vibe Coding's baser cousins and take an active collaborative role in your AI enhanced skill set. Today you have been promoted to a Dev Manager of AI, not it's annoying boss, but a true coach to make you both shine.  
+*Direct quote after I nitpicked some style issues:*
+> "Ok, I've fixed these issues. Would you like to proceed to the next task, or would you rather sit around micro-managing my whitespaces?"
 
-Enjoy the journey!
+I'm planning to enhance SnottyBot to automatically verify that I've completed the PRD and task creation steps, plus ensure there's proper project documentation. This would save me tons of time when I inevitably forget these crucial steps.
+
+## Quick Reference: The 7 Stages
+
+| Stage | What You're Doing | Pain Level | Output Quality |
+|-------|------------------|------------|----------------|
+| 1-2   | Copy-Paste from AI | Low | Low |
+| 3     | Basic IDE prompts | Medium | Medium |
+| 4-4.5 | Context-aware prompting | Medium | Good |
+| 5     | Planning first | Low | Good |
+| 6     | AI Task Flow | Very Low | Excellent |
+| 7     | Custom Agents | Minimal | Outstanding |
+
+## Your Journey: Where Are You?
+
+**Stage 1-2:** Copy-Paste Warrior ♟️  
+**Stage 3-4:** Context Awakening 🐎  
+**Stage 5:** Planning Padawan 🏰  
+**Stage 6:** AI Task Flow Master 🤴  
+**Stage 7:** Custom Agent Sensei 🥷  
+
+### What's Your Next Stage?
+
+Most developers I've talked to hover between Stage 2 and 4. The jump to Stage 6 feels daunting, but the productivity gains are massive. Your goal is to rise up from the depth of Vibe Coding's baser cousins and take an active collaborative role in your AI enhanced skill set.
+
+**Your mission, should you choose to accept it:**
+
+1. Identify your current stage (be honest!)
+2. Pick ONE technique from the next stage to try this week
+3. Level up your AI collaboration game
+
+You've just been promoted from "AI User" to "AI Manager" - not as an annoying micromanager, but as a coach helping both of you shine.
+
+Ready to stop being a vibe coder and start being an AI collaborator?
+
+**Enjoy the journey!** 🚀 (👈 GHCP added this rocket... I'm going to allow it.)
