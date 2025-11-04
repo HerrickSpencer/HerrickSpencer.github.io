@@ -15,7 +15,6 @@ tags:
 image: "/assets/img/postMedia/7StagesVibeCoding/7-Stages-Vibe-Coding-Banner.png"
 date: 2025-11-03 00:00 +0000
 ---
-
 ![TOW](/assets/img/postMedia/TipOfTheWeek.jpg){: width="200" .left}
 
 ## The 7 Stages of Vibe Coding
