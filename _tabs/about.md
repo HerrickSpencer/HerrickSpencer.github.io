@@ -10,29 +10,39 @@ order: 4
 
 # Herrick Spencer
 
-I work for Microsoft as a Senior Development Engineer on the Windows AI and Inbox Apps team working on apps that ship with Windows like Calculator, Notepad, Sound Recorder, and Alarms and Clock, for the last 3 years I have worked mainly on the SnippingTool but will be switching to the Paint app shortly (as of 2025). Prior to this on a very cool team called APS (Applications, Partners, and Store), creating OSS toolkits, and supporting our partners (both OSS and third party) like Apple, Spotify, Siemens, IFTTT.  Previously I've worked on the IOT Maker team having fun making open sourced projects for DIY electronics with Microsoft services involved (I got to write the RaspberryPi Noobs installer for Windows Preview!). Lastly the Forefront Online Protection team, securing Office tools like Exchange and Office apps against viruses and data leakage. It has been a fun and diverse job, and gives the opportunity to learn way more than you would as a normal developer.
+I'm a Senior Development Engineer at Microsoft on the Windows AI and Inbox Apps team, where I work on the applications that ship with Windows—Calculator, Notepad, Sound Recorder, and Alarms & Clock. I spent three years primarily focused on the Snipping Tool, then worked through 2024 and most of 2025 on the Paint app, where I helped add exciting AI features like Generative Stickers. Currently, I'm focused on AI features across Windows OS in general while continuing to drive improvements for Inbox apps.
 
-## Personal items
+My path to Microsoft wasn't traditional—I started with four years of architectural training at Norwich University and Vermont College, then spent a decade as an architectural draftsman and designer before discovering my passion for programming. For the full story of my journey from blueprints to code, check out my [Career & Education](/career/) page.
 
-I used to practice Jiu-Jitsu every day, but slacked off after breaking my ankle in the fourth fight of a competition; fighting a 300+Lb cop. Hoping to start up again but way too involved with family and work to meet that schedule right now.
+My Microsoft journey has taken me through some fascinating teams: I previously worked on APS (Applications, Partners, and Store), where I created OSS toolkits and supported partners ranging from Apple and Spotify to Siemens and IFTTT. Before that, I had a blast on the IoT Maker team building open-source projects for DIY electronics integrated with Microsoft services—including writing the Raspberry Pi NOOBS installer for Windows Preview! I also spent time on the Forefront Online Protection team, securing Office tools like Exchange and Office apps against viruses and data leakage.
 
-Before I became a dad I was an avid motorcyclist, and rode WAY more than I drove my gas guzzling truck. I averaged 6,000mi/yr on four wheels, and 15,000 on two!   I've ridden standard, cruiser, sport, and currently sport tourer (ST1300). I've traveled 2000mi in one week (400mi x 5days) up to Nova Scotia and around Cape Breton.
+It's been an incredibly diverse career that's allowed me to learn far more than a typical development role would offer.
 
-## DIY things I blog about
+## Beyond the Code
 
-- Woodworking
-- Home repair
-- Automation (just getting started here)
+I'm a former daily Jiu-Jitsu practitioner who took an extended break after breaking my ankle in the fourth fight of a competition (against a 300+ lb cop, no less!). I'm hoping to get back on the mats, but between family and work, finding the time is proving to be its own kind of challenge. Mountain biking through the wilderness of the Pacific Northwest has taken the place of exercise of late.
 
-## Techy things I'll probably blog about
+Before becoming a dad, I was an avid motorcyclist who rode far more than I drove. I put about 6,000 miles per year on four wheels and 15,000 on two! I've experienced everything from standards to cruisers to sport bikes, and lastly a sport tourer (ST1300). One of my favorite adventures was a 2,000-mile journey in a single week, riding 400 miles per day through Nova Scotia and around Cape Breton.
 
-- I've been interested in DIY electronics, mostly with <a class="zem_slink" title="Arduino" href="https://www.arduino.cc/" rel="homepage">Arduino</a> and Netduino's, and plan on making some AI/RC devices with Audio/Video transmitters to play with at the office.
-- WinUI3/UWP apps and .Net
-- C# and C++/WinRT
-- Git fun
-- Visual Studio and Visual Code tricks
-- What started out as a interview question turned into a thought experiment between co-workers, a Sudoku solver... look in my blog for this.
-- more to come.
+## What You'll Find Here
 
-If you need to know more... please start stalking me.
+### DIY Projects & Making
+
+- **Woodworking** - From shop organization to custom furniture
+- **Home Improvement** - Because something's always broken
+- **Automation** - Just getting started, but excited about the possibilities
+
+### Technology & Development
+
+- **DIY Electronics** - Arduino and Netduino projects, with plans for AI/RC devices featuring audio/video transmission
+- **WinUI3/UWP Development** - Building modern Windows applications
+- **C# and C++/WinRT** - The languages that keep me busy
+- **Developer Tools** - Git workflows, Visual Studio tricks, and VS Code magic
+- **Problem Solving** - Like the Sudoku solver that started as an interview question and became a fascinating thought experiment with colleagues
+
+### And More
+
+This blog is my digital workshop where I share everything from technical deep-dives to weekend project failures (and successes). Whether you're here for the code, the craftsmanship, or just curious about what makes a Microsoft engineer tick, welcome!
+
+*Want to know more? Feel free to explore the archives—there's probably something in there that'll give you more insight than you bargained for.*
 
