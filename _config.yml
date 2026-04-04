@@ -150,18 +150,6 @@ pwa:
 
 paginate: 10
 
-# jekyll-paginate-v2 settings (used for Books and other filtered pages)
-pagination:
-  enabled: true
-  per_page: 10
-  permalink: "/page/:num/"
-  title: ":title - page :num"
-  sort_field: "date"
-  sort_reverse: true
-  trail:
-    before: 2  # number of page links to show before the current page
-    after: 2   # number of page links to show after the current page
-
 # The base URL of your site
 baseurl: ""
 
