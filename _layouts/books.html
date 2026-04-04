@@ -5,7 +5,22 @@ refactor: true
 
 {% include lang.html %}
 
-{% assign posts = site.posts | where_exp: 'item', 'item.categories contains "Books"' %}
+{% assign all_books = site.posts | where_exp: 'item', 'item.categories contains "Books"' %}
+
+{% assign pinned = all_books | where: 'pin', 'true' %}
+{% assign default = all_books | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+
+{% assign posts = '' | split: '' %}
+
+<!-- Get pinned book posts -->
+{% for post in pinned %}
+  {% assign posts = posts | push: post %}
+{% endfor %}
+
+<!-- Get default book posts -->
+{% for post in default %}
+  {% assign posts = posts | push: post %}
+{% endfor %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
