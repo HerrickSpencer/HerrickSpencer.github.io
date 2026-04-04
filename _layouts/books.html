@@ -91,3 +91,147 @@ refactor: true
   {% endfor %}
 </div>
 <!-- #post-list -->
+
+<!-- Client-side paginator for book posts -->
+<nav id="books-paginator" aria-label="Page Navigation" style="display: none;">
+  <ul class="pagination align-items-center mt-4 mb-0">
+    <li class="page-item" id="page-prev">
+      <a class="page-link" href="#" aria-label="previous-page">
+        <i class="fas fa-angle-left"></i>
+      </a>
+    </li>
+    <li class="page-index align-middle" id="page-numbers"></li>
+    <li class="page-item" id="page-next">
+      <a class="page-link" href="#" aria-label="next-page">
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var PER_PAGE = {{ site.paginate | default: 10 }};
+    var cards = Array.prototype.slice.call(
+      document.querySelectorAll('#post-list > .card-wrapper')
+    );
+    var totalPages = Math.ceil(cards.length / PER_PAGE);
+
+    if (totalPages <= 1) return; // no pagination needed
+
+    var paginator = document.getElementById('books-paginator');
+    var paginationUl = paginator.querySelector('.pagination');
+    var mobileIndex = document.getElementById('page-numbers');
+    var prevEl = document.getElementById('page-prev');
+    var nextEl = document.getElementById('page-next');
+    paginator.style.display = '';
+
+    function getPage() {
+      var match = window.location.hash.match(/^#page=(\d+)$/);
+      var p = match ? parseInt(match[1], 10) : 1;
+      return Math.max(1, Math.min(p, totalPages));
+    }
+
+    function showPage(page) {
+      var start = (page - 1) * PER_PAGE;
+      var end = start + PER_PAGE;
+
+      cards.forEach(function (card, i) {
+        card.style.display = i >= start && i < end ? '' : 'none';
+      });
+
+      // Update prev/next
+      prevEl.classList.toggle('disabled', page <= 1);
+      nextEl.classList.toggle('disabled', page >= totalPages);
+
+      // Remove previously rendered page number elements
+      var old = paginationUl.querySelectorAll('.page-num');
+      for (var o = 0; o < old.length; o++) {
+        old[o].remove();
+      }
+
+      // Build page numbers with ellipsis (matching Chirpy theme logic)
+      var leftEllipsis = false;
+      var rightEllipsis = false;
+
+      for (var i = 1; i <= totalPages; i++) {
+        var pre = page - 1;
+        var next = page + 1;
+        var show = false;
+
+        if (page === 1) {
+          show = i <= 3 || i === totalPages;
+        } else if (page === totalPages) {
+          show = i === 1 || i >= pre - 1;
+        } else {
+          show = i === 1 || i === totalPages || (i >= pre && i <= next);
+        }
+
+        if (show) {
+          var li = document.createElement('li');
+          li.className = 'page-item page-num' + (i === page ? ' active' : '');
+          var a = document.createElement('a');
+          a.className = 'page-link';
+          a.href = '#page=' + i;
+          a.textContent = i;
+          li.appendChild(a);
+          paginationUl.insertBefore(li, nextEl);
+        } else {
+          if (i < pre && !leftEllipsis) {
+            var eli = document.createElement('li');
+            eli.className = 'page-item page-num disabled';
+            var eliSpan = document.createElement('span');
+            eliSpan.className = 'page-link';
+            eliSpan.textContent = '...';
+            eli.appendChild(eliSpan);
+            paginationUl.insertBefore(eli, nextEl);
+            leftEllipsis = true;
+          } else if (i > next && !rightEllipsis) {
+            var eri = document.createElement('li');
+            eri.className = 'page-item page-num disabled';
+            var eriSpan = document.createElement('span');
+            eriSpan.className = 'page-link';
+            eriSpan.textContent = '...';
+            eri.appendChild(eriSpan);
+            paginationUl.insertBefore(eri, nextEl);
+            rightEllipsis = true;
+          }
+        }
+      }
+
+      // Mobile: update "page / total" indicator
+      mobileIndex.textContent = '';
+      var pageSpan = document.createElement('span');
+      pageSpan.textContent = page;
+      var totalSpan = document.createElement('span');
+      totalSpan.className = 'text-muted';
+      totalSpan.textContent = ' / ' + totalPages;
+      mobileIndex.appendChild(pageSpan);
+      mobileIndex.appendChild(totalSpan);
+
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    prevEl.querySelector('a').addEventListener('click', function (e) {
+      e.preventDefault();
+      var page = getPage();
+      if (page > 1) {
+        window.location.hash = 'page=' + (page - 1);
+      }
+    });
+
+    nextEl.querySelector('a').addEventListener('click', function (e) {
+      e.preventDefault();
+      var page = getPage();
+      if (page < totalPages) {
+        window.location.hash = 'page=' + (page + 1);
+      }
+    });
+
+    window.addEventListener('hashchange', function () {
+      showPage(getPage());
+    });
+
+    showPage(getPage());
+  });
+</script>
