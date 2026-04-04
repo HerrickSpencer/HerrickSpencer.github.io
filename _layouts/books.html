@@ -22,6 +22,10 @@ refactor: true
   {% assign posts = posts | push: post %}
 {% endfor %}
 
+{% if posts.size == 0 %}
+  <p class="mt-5 text-center fs-4 text-muted">Books being read... Come back later.</p>
+{% else %}
+
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
     <article class="card-wrapper card">
@@ -235,3 +239,5 @@ refactor: true
     showPage(getPage());
   });
 </script>
+
+{% endif %}
