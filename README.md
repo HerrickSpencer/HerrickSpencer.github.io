@@ -1,7 +1,28 @@
-Blog site for hosting previous blog posts, and new thoughts on technology, Software Development, DIY, Woodworking, Tips of the Week, and parenting.
+# From the Desk of Herrick Spencer
 
-This site was created using the [Chirpy Theme](Docs/Chirpy%20Theme.md),  however I have altered some of the layouts and css to suit my needs. Namely separating posts that I don't want to be on the home page, but still want people to have access to. I plan on changing this to be [an array in the site params](Docs/HomeExclusionList) in the future.
+> *Blog site for mental burps of a Senior Engineer.*
 
-Ongoing or proposed work for the site can be found in the [Site Work](Docs/Site%20Work.md) page.
+A personal blog covering **software development**, **DIY & woodworking**, **electronics**, **tips of the week**, and the occasional parenting revelation — written by a Senior Development Engineer at Microsoft who took the scenic route from architectural designer to shipping Windows apps.
 
-For setup instructions and local development, see the [Contributing Guide](Docs/Contributing.md).
+**🌐 [HerrickSpencer.github.io](https://HerrickSpencer.github.io)**
+
+---
+
+## What's Inside
+
+- **Tech & Dev** — WinUI3, C#, C++/WinRT, developer tools, and hard-won lessons from building Windows Inbox Apps (Calculator, Notepad, Paint, Snipping Tool, and more)
+- **DIY Projects** — Woodworking builds, home improvement, electronics with Arduino, and automation experiments
+- **Tips of the Week** — Bite-sized productivity tricks for developers
+- **Book Reviews** — What I'm reading and what I think about it
+
+## Under the Hood
+
+Built with [Jekyll](https://jekyllrb.com/) using the [Chirpy Theme](Docs/Chirpy%20Theme.md), with custom layout and CSS modifications — notably separating certain post categories from the home page while keeping them accessible. Future plan: [make exclusions configurable via site params](Docs/HomeExclusionList).
+
+## Get Started
+
+Want to run the site locally or contribute? See the **[Contributing Guide](Docs/Contributing.md)**.
+
+## Roadmap
+
+Ongoing and proposed work is tracked on the **[Site Work](Docs/Site%20Work.md)** page.
