@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f3460;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Accent bar -->
+  <rect x="0" y="580" width="1200" height="50" fill="url(#accent)" />
+
+  <!-- Book icon (left) -->
+  <g transform="translate(100, 200)">
+    <!-- Book spine -->
+    <rect x="0" y="0" width="20" height="200" rx="3" fill="#e94560" />
+    <!-- Book front -->
+    <rect x="20" y="10" width="120" height="180" rx="2" fill="#f5f5f5" />
+    <!-- Book lines -->
+    <line x1="40" y1="50" x2="120" y2="50" stroke="#ccc" stroke-width="2" />
+    <line x1="40" y1="70" x2="120" y2="70" stroke="#ccc" stroke-width="2" />
+    <line x1="40" y1="90" x2="100" y2="90" stroke="#ccc" stroke-width="2" />
+    <line x1="40" y1="110" x2="110" y2="110" stroke="#ccc" stroke-width="2" />
+    <!-- Book pages -->
+    <rect x="140" y="15" width="8" height="170" rx="2" fill="#e8e8e8" />
+  </g>
+
+  <!-- Arrows (conversation flow) -->
+  <g transform="translate(330, 280)">
+    <!-- Arrow right -->
+    <line x1="0" y1="0" x2="80" y2="0" stroke="#e94560" stroke-width="3" />
+    <polygon points="80,-8 96,0 80,8" fill="#e94560" />
+    <!-- Arrow left -->
+    <line x1="0" y1="40" x2="80" y2="40" stroke="#0f3460" stroke-width="3" />
+    <polygon points="0,32 -16,40 0,48" fill="#0f3460" />
+  </g>
+
+  <!-- Robot/Copilot icon (right side) -->
+  <g transform="translate(500, 220)">
+    <!-- Monitor -->
+    <rect x="0" y="0" width="140" height="100" rx="8" fill="#2a2a4a" stroke="#e94560" stroke-width="2" />
+    <!-- Screen -->
+    <rect x="10" y="10" width="120" height="60" rx="4" fill="#0f3460" />
+    <!-- Code lines on screen -->
+    <line x1="20" y1="25" x2="60" y2="25" stroke="#4ecca3" stroke-width="2" />
+    <line x1="20" y1="35" x2="80" y2="35" stroke="#e94560" stroke-width="2" />
+    <line x1="20" y1="45" x2="50" y2="45" stroke="#4ecca3" stroke-width="2" />
+    <line x1="55" y1="45" x2="100" y2="45" stroke="#f5f5f5" stroke-width="2" opacity="0.5" />
+    <line x1="20" y1="55" x2="70" y2="55" stroke="#e94560" stroke-width="2" />
+    <!-- Stand -->
+    <rect x="50" y="100" width="40" height="20" fill="#2a2a4a" />
+    <rect x="30" y="120" width="80" height="6" rx="3" fill="#2a2a4a" />
+    <!-- Sparkle (AI) -->
+    <g transform="translate(120, -10)">
+      <polygon points="0,-12 3,-4 12,-4 5,2 7,12 0,6 -7,12 -5,2 -12,-4 -3,-4" fill="#ffd700" />
+    </g>
+  </g>
+
+  <!-- Title text -->
+  <text x="600" y="460" text-anchor="middle" fill="#f5f5f5" font-family="Georgia, serif" font-size="42" font-weight="bold">Building the Books Tab</text>
+  <text x="600" y="510" text-anchor="middle" fill="#e94560" font-family="Georgia, serif" font-size="28">A Story of AI Collaboration</text>
+  <text x="600" y="550" text-anchor="middle" fill="#aaa" font-family="Arial, sans-serif" font-size="18">From casual chat to merged PR — with GitHub Copilot</text>
+
+  <!-- Top decorative dots -->
+  <circle cx="550" cy="160" r="3" fill="#e94560" opacity="0.6" />
+  <circle cx="600" cy="140" r="2" fill="#4ecca3" opacity="0.4" />
+  <circle cx="650" cy="155" r="4" fill="#ffd700" opacity="0.3" />
+  <circle cx="700" cy="145" r="2" fill="#e94560" opacity="0.5" />
+  <circle cx="500" cy="150" r="3" fill="#4ecca3" opacity="0.3" />
+</svg>
