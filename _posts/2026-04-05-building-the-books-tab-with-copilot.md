@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building the Books Tab: A Story of AI Collaboration"
+title: 'Building the Books Tab: A Story of AI Collaboration'
 categories:
 - Programming
 tags:
@@ -13,8 +13,8 @@ tags:
 - books
 mermaid: true
 image: "/assets/img/postMedia/BooksTabStory/books-tab-banner.svg"
+date: 2026-04-05 10:06 -0700
 ---
-
 _**Note:** Since this feature was created using GitHub Copilot, I decided to have it assist in writing this blog post explaining the journey of creating that feature as well!_
 
 ## The Idea that Started with Bad Spelling
