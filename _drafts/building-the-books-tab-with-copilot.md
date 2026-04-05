@@ -15,6 +15,8 @@ mermaid: true
 image: "/assets/img/postMedia/BooksTabStory/books-tab-banner.svg"
 ---
 
+_**Note:** Since this feature was created using GitHub Copilot, I decided to have it assist in writing this blog post explaining the journey of creating that feature as well!_
+
 ## The Idea that Started with Bad Spelling
 
 So there I was, staring at my growing stack of books (some physical, some Kindle, some Audible... I'm not picky about format) and thinking: _"I should really track what I'm reading somewhere."_ And since I already have this blog sitting here on GitHub Pages, why not add a Books section?
