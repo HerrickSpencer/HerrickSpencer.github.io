@@ -5,3 +5,5 @@ _site/
 .jekyll-metadata
 frontmatter.json
 .frontmatter/
+vendor/
+.bundle/
