@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Book: A Mathematician's Lament"
-categories: [Books]
-tags: [books, reading, nonfiction, mathematics, education]
+title: 'Book: A Mathematician''s Lament'
+categories:
+- Books
+tags:
+- books
+- reading
+- nonfiction
+- mathematics
+- education
 author: herrick
 stars: 10
 math: true
+date: 2026-03-30 00:00 +0000
 ---
-
 ## Overview
 
 **Title:** A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form  
