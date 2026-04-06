@@ -11,6 +11,7 @@ tags:
   - philosophy
 author: herrick
 stars: 6
+image: /assets/img/postMedia/bookcovers/subtle-art.jpg
 ---
 ## Overview
 

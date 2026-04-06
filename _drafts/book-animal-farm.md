@@ -11,6 +11,7 @@ tags:
   - satire
 author: herrick
 stars: 8
+image: /assets/img/postMedia/bookcovers/animal-farm.jpg
 ---
 
 ## Overview

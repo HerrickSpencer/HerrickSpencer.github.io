@@ -11,6 +11,7 @@ tags:
   - mystery
 author: herrick
 stars: 9
+image: /assets/img/postMedia/bookcovers/find-her.jpg
 ---
 
 ## Overview

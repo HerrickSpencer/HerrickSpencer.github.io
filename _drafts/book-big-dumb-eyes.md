@@ -12,6 +12,7 @@ tags:
   - comedy
 author: herrick
 stars: 6
+image: /assets/img/postMedia/bookcovers/big-dumb-eyes.jpg
 ---
 
 ## Overview

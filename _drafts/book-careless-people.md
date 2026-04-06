@@ -12,6 +12,7 @@ tags:
   - politics
 author: herrick
 stars: 9
+image: /assets/img/postMedia/bookcovers/careless-people.jpg
 ---
 
 ## Overview

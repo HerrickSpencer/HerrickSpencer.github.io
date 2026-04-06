@@ -12,6 +12,7 @@ tags:
   - philosophy
 author: herrick
 stars: 9
+image: /assets/img/postMedia/bookcovers/candide.jpg
 ---
 
 ## Overview

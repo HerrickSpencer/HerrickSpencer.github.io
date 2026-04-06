@@ -12,6 +12,7 @@ tags:
   - innovation
 author: herrick
 stars: 9
+image: /assets/img/postMedia/bookcovers/how-we-got-to-now.jpg
 ---
 
 ## Overview

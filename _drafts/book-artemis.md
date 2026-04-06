@@ -11,6 +11,7 @@ tags:
   - thriller
 author: herrick
 stars: 8
+image: /assets/img/postMedia/bookcovers/artemis.jpg
 ---
 
 ## Overview

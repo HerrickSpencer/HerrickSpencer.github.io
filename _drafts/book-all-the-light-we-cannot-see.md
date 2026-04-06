@@ -11,6 +11,7 @@ tags:
   - wwii
 author: herrick
 stars: 8
+image: /assets/img/postMedia/bookcovers/all-the-light-we-cannot-see.jpg
 ---
 
 ## Overview

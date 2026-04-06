@@ -12,6 +12,7 @@ tags:
 author: herrick
 stars: 10
 math: true
+image: /assets/img/postMedia/bookcovers/mathematicians-lament.jpg
 date: 2026-03-30 00:00 +0000
 ---
 ## Overview
