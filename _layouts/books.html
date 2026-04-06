@@ -57,6 +57,12 @@ refactor: true
           <div class="card-body d-flex flex-column">
             <h1 class="card-title my-2 mt-md-0">{{ post.title }}</h1>
 
+            {% if post.stars %}
+              <div class="card-text content mt-0 mb-3">
+                <p><b>Rating:</b> {{ post.stars }} / 10</p>
+              </div>
+            {% endif %}
+
             <div class="card-text content mt-0 mb-3">
               <p>{% include post-summary.html %}</p>
             </div>
