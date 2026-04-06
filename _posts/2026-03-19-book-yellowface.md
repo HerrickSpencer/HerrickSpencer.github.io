@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'Book: Yellowface'
+title: "Book: Yellowface"
 categories:
-- Books
+  - Books
 tags:
-- books
-- reading
-- fiction
-- literary-fiction
-- satire
+  - books
+  - reading
+  - fiction
+  - literary-fiction
+  - satire
 author: herrick
-stars: 9
+stars: 7.5
 date: 2026-03-19 00:00 +0000
 ---
 ## Overview
