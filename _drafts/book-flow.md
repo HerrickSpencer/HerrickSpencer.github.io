@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "Book: Flow"
-categories: [Books]
-tags: [books, reading, nonfiction, psychology, self-improvement]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - nonfiction
+  - psychology
+  - self-improvement
 author: herrick
+stars: 5
 ---
 
 ## Overview
@@ -12,7 +19,8 @@ author: herrick
 **Author:** Mihaly Csikszentmihalyi  
 **Published:** 1990  
 **Genre:** Psychology / Self-help  
-**Pages:** ~303
+**Pages:** ~303  
+**Rating:** {{page.stars}} / 10
 
 ---
 

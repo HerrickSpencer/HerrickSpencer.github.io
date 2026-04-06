@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "Book: Animal Farm"
-categories: [Books]
-tags: [books, reading, fiction, classics, satire]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - fiction
+  - classics
+  - satire
 author: herrick
+stars: 8
 ---
 
 ## Overview
@@ -12,7 +19,8 @@ author: herrick
 **Author:** George Orwell  
 **Published:** 1945  
 **Genre:** Political satire / Allegorical fiction  
-**Pages:** ~112
+**Pages:** ~112  
+**Rating:** {{page.stars}} / 10
 
 ---
 

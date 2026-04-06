@@ -1,18 +1,25 @@
 ---
 layout: post
 title: "Book: The Subtle Art of Not Giving a F***"
-categories: [Books]
-tags: [books, reading, nonfiction, self-improvement, philosophy]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - nonfiction
+  - self-improvement
+  - philosophy
 author: herrick
+stars: 6
 ---
-
 ## Overview
 
 **Title:** The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life  
 **Author:** Mark Manson  
 **Published:** 2016  
 **Genre:** Self-help / Popular philosophy  
-**Pages:** ~224
+**Pages:** ~224  
+**Rating:** {{page.stars}} / 10
 
 ---
 

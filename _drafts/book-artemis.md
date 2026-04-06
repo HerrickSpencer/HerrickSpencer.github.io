@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "Book: Artemis"
-categories: [Books]
-tags: [books, reading, fiction, science-fiction, thriller]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - fiction
+  - science-fiction
+  - thriller
 author: herrick
+stars: 8
 ---
 
 ## Overview
@@ -12,7 +19,8 @@ author: herrick
 **Author:** Andy Weir  
 **Published:** 2017  
 **Genre:** Science fiction / Thriller  
-**Pages:** ~305
+**Pages:** ~305  
+**Rating:** {{page.stars}} / 10
 
 ---
 
@@ -43,5 +51,7 @@ Like *The Martian*, Weir grounds the story in real science and engineering: the 
 
 ## Quotes
 
-*[Add any favourite quotes or passages here.]*
+Location: 4,489
+
+“It’s all part of the life-cycle of an economy. First it’s lawless capitalism until that starts to impede growth. Next comes regulation, law enforcement, and taxes. After that: public benefits and entitlements. Then, finally, overexpenditure and collapse.”
 

@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "Book: Find Her"
-categories: [Books]
-tags: [books, reading, fiction, thriller, mystery]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - fiction
+  - thriller
+  - mystery
 author: herrick
+stars: 9
 ---
 
 ## Overview
@@ -12,7 +19,8 @@ author: herrick
 **Author:** Lisa Gardner  
 **Published:** 2016  
 **Genre:** Thriller / Mystery  
-**Pages:** ~400
+**Pages:** ~400  
+**Rating:** {{page.stars}} / 10
 
 ---
 

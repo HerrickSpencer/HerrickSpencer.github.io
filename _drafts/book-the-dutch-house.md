@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "Book: The Dutch House"
-categories: [Books]
-tags: [books, reading, fiction, literary-fiction, family]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - fiction
+  - literary-fiction
+  - family
 author: herrick
+stars: 8
 ---
 
 ## Overview
@@ -12,7 +19,8 @@ author: herrick
 **Author:** Ann Patchett  
 **Published:** 2019  
 **Genre:** Literary fiction  
-**Pages:** ~337
+**Pages:** ~337  
+**Rating:** {{page.stars}} / 10
 
 ---
 

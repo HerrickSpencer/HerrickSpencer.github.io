@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "Book: All the Light We Cannot See"
-categories: [Books]
-tags: [books, reading, fiction, historical-fiction, wwii]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - fiction
+  - historical-fiction
+  - wwii
 author: herrick
+stars: 8
 ---
 
 ## Overview
@@ -12,7 +19,8 @@ author: herrick
 **Author:** Anthony Doerr  
 **Published:** 2014  
 **Genre:** Historical fiction  
-**Pages:** ~531
+**Pages:** ~531  
+**Rating:** {{page.stars}} / 10
 
 ---
 

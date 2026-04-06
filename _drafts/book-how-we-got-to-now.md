@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "Book: How We Got to Now"
-categories: [Books]
-tags: [books, reading, nonfiction, history, science, innovation]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - nonfiction
+  - history
+  - science
+  - innovation
 author: herrick
+stars: 9
 ---
 
 ## Overview
@@ -12,7 +20,8 @@ author: herrick
 **Author:** Steven Johnson  
 **Published:** 2014  
 **Genre:** Popular science / History of technology  
-**Pages:** ~293
+**Pages:** ~293  
+**Rating:** {{page.stars}} / 10
 
 ---
 
@@ -43,5 +52,7 @@ Johnson traces surprising chains of causation: how the invention of the printing
 
 ## Quotes
 
-*[Add any favourite quotes or passages here.]*
+Location: 2,250
+
+New York: Adapting the Brush Electric Light to the Illumination of the Streets, a Scene Near the Fifth Avenue Hotel. Why should we care whether Edison invented the lightbulb as a lone genius or as part of a wider network? For starters, if the invention of the lightbulb is going to be a canonical story of how new technologies come into being, we might as well tell an accurate story. But it’s more than just a matter of getting the facts right, because there are social and political implications to these kinds of stories. We know that one key driver of progress and standards of living is technological innovation. We know that we want to encourage the trends that took us from ten minutes of artificial light on one hour’s wage to three hundred days. If we think that innovation comes from a lone genius inventing a new technology from scratch, that model naturally steers us toward certain policy decisions, like stronger patent protection. But if we think that innovation comes out of collaborative networks, then we want to support different policies and organizational forms: less rigid patent laws, open standards, employee participation in stock plans, cross-disciplinary connections. The lightbulb shines light on more than just our bedside reading; it helps us see more clearly the way new ideas come into being, and how to cultivate them as a society.
 

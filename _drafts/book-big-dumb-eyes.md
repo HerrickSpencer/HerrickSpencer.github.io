@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "Book: Big Dumb Eyes"
-categories: [Books]
-tags: [books, reading, nonfiction, memoir, humor, comedy]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - nonfiction
+  - memoir
+  - humor
+  - comedy
 author: herrick
+stars: 6
 ---
 
 ## Overview
@@ -12,7 +20,8 @@ author: herrick
 **Author:** Nate Bargatze  
 **Published:** 2025  
 **Genre:** Memoir / Comedy  
-**Pages:** ~272
+**Pages:** ~272  
+**Rating:** {{page.stars}} / 10
 
 ---
 

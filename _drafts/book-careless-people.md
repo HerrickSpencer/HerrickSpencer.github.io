@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "Book: Careless People"
-categories: [Books]
-tags: [books, reading, nonfiction, memoir, tech, politics]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - nonfiction
+  - memoir
+  - tech
+  - politics
 author: herrick
+stars: 9
 ---
 
 ## Overview
@@ -12,7 +20,8 @@ author: herrick
 **Author:** Sarah Wynn-Williams  
 **Published:** 2025  
 **Genre:** Memoir / Narrative nonfiction  
-**Pages:** ~384
+**Pages:** ~384  
+**Rating:** {{page.stars}} / 10
 
 ---
 

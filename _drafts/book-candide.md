@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "Book: Candide"
-categories: [Books]
-tags: [books, reading, fiction, classics, satire, philosophy]
+categories:
+  - Books
+tags:
+  - books
+  - reading
+  - fiction
+  - classics
+  - satire
+  - philosophy
 author: herrick
+stars: 9
 ---
 
 ## Overview
@@ -12,7 +20,8 @@ author: herrick
 **Author:** Voltaire (François-Marie Arouet)  
 **Published:** 1759  
 **Genre:** Philosophical satire / Novella  
-**Pages:** ~144 (varies by edition/translation)
+**Pages:** ~144 (varies by edition/translation)  
+**Rating:** {{page.stars}} / 10
 
 ---
 
@@ -45,5 +54,11 @@ The novella ends with the famous line:
 
 ## Quotes
 
-*[Add any favourite quotes or passages here.]*
+Location: 1,182
+
+"It is another kind of folly," said Martin. "You know that these two nations are at war for a few acres of snow in Canada, and that they spend over this beautiful war much more than Canada is worth.
+
+Location: 1,567
+
+man was born to live either in a state of distracting inquietude or of lethargic disgust.
 
