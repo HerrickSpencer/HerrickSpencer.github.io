@@ -15,7 +15,7 @@ mermaid: true
 image: "/assets/img/postMedia/BooksTabStory/books-tab-banner.svg"
 date: 2026-04-05 10:06 -0700
 ---
-_**Note:** Since this feature was created using GitHub Copilot, I decided to have it assist in writing this blog post explaining the journey of creating that feature as well!_
+_**Note:** Since this feature was created using GitHub Copilot, I decided to have it assist in writing this blog post explaining the journey of creating that feature as well! It did so in what it perceived as my 'voice' (casual, conversational, self-deprecating humor, ellipsis, parenthetical asides) which is exactly how I write._
 
 ## The Idea that Started with Bad Spelling
 
