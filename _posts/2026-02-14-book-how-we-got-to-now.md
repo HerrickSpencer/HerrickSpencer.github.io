@@ -45,12 +45,18 @@ Johnson traces surprising chains of causation: how the invention of the printing
 
 ## My Notes
 
-*[Your thoughts here — some prompts to get you started:]*
+This is one of those awesome books that distill the history of science down to a nice neat story that flows beautifully and shows how all our current (and likely future) technologies evolved from a set of previous usually market driven discoveries of the past. I've read a few books that are similar in nature, such as Bill Bryson's *A Short History of Nearly Everything* where you get a story of how things lead from one discovery to the next building on the previous to evolve the science. This was one of my favorite books of the year.
+
+Sand! It's all sand!  Seems like silica is the heart of the historical bases of technology today. It is amazing the ripples that are caused by simple things like the need for glasses to read with.  
 
 - Which of the six innovations surprised you most in terms of its downstream effects?
+  - It is all about sand. Sand made glass, books make people want glasses, glasses make lenses more evolved, which makes microscopes and telescopes which make the possibilities of micro and macro discovery possible.
 - Did any chain of causation make you look differently at something in your daily life or work?
+  - The idea of a culmination of discoveries is quite interesting. It seems like a set of things always needs to happen to lead to new bigger discovery, however the way in which they happen nearly make them inevitable in the path they take to combine.
 - As an engineer, did the "hummingbird effect" resonate with how you've seen technology develop?
+  - Certainly! In my own life I've been fortunate to see the emergence of many technologies. Internet was not a thing till I was a teen, cellphones not till I was leaving College, now the AI phase has become the next thing... I am interested to see all the connections between how these things push each other to evolve to the next phase.
 - Were there chapters that dragged, or ones you'd recommend skipping to first?
+  - None... this was such a nerdy page turner.
 
 ---
 
