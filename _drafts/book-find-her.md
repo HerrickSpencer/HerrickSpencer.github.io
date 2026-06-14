@@ -23,7 +23,7 @@ date_read: 2026-03-22
 **Published:** 2016  
 **Genre:** Thriller / Mystery  
 **Pages:** ~400  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

@@ -23,7 +23,7 @@ date_read: 2026-03-04
 **Published:** 2017  
 **Genre:** Science fiction / Thriller  
 **Pages:** ~305  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

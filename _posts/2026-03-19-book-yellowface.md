@@ -22,7 +22,7 @@ date_read: 2026-03-19
 **Published:** 2023  
 **Genre:** Literary fiction / Satire  
 **Pages:** ~322  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

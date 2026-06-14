@@ -23,7 +23,7 @@ date_read: 2026-04-16
 **Published:** 2019  
 **Genre:** Literary fiction  
 **Pages:** ~337  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

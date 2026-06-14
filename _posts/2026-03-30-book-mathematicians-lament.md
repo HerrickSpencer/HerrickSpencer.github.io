@@ -23,7 +23,7 @@ date_read: 2026-03-30
 **Published:** 2009 (as a book; the essay circulated from 2002)  
 **Genre:** Essay / Education / Mathematics  
 **Pages:** ~140  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

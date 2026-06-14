@@ -24,7 +24,7 @@ date_read: 2026-02-26
 **Published:** 2025  
 **Genre:** Memoir / Comedy  
 **Pages:** ~272  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

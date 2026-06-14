@@ -23,7 +23,7 @@ date_read: 2026-03-15
 **Published:** 2014  
 **Genre:** Historical fiction  
 **Pages:** ~531  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

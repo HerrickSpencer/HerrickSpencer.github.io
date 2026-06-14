@@ -23,7 +23,7 @@ date_read: 2026-03-07 00:00 +0000
 **Published:** 1759  
 **Genre:** Philosophical satire / Novella  
 **Pages:** ~144 (varies by edition/translation)  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

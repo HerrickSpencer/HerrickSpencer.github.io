@@ -24,7 +24,7 @@ date_read: 2026-02-02
 **Published:** 2025  
 **Genre:** Memoir / Narrative nonfiction  
 **Pages:** ~384  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

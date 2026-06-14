@@ -24,7 +24,7 @@ date_read: 2026-02-14
 **Published:** 2014  
 **Genre:** Popular science / History of technology  
 **Pages:** ~293  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

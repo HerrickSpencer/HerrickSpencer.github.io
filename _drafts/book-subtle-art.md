@@ -22,7 +22,7 @@ date_read: 2026-02-24
 **Published:** 2016  
 **Genre:** Self-help / Popular philosophy  
 **Pages:** ~224  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---

@@ -23,7 +23,7 @@ date_read: 2026-01-22
 **Published:** 1945  
 **Genre:** Political satire / Allegorical fiction  
 **Pages:** ~112  
-**Date Read:** {{page.date_read}}
+**Date Read:** {{page.date_read}}  
 **Rating:** {{page.stars}} / 10
 
 ---
