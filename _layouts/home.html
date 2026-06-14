@@ -155,9 +155,15 @@ refactor: true
   <nav aria-label="Page Navigation">
     <ul class="pagination align-items-center mt-4 mb-0">
       <li class="page-item{% if current_page <= 1 %} disabled{% endif %}">
-        <a class="page-link" href="{{ prev_path | relative_url }}" aria-label="previous-page">
-          <i class="fas fa-angle-left"></i>
-        </a>
+        {% if current_page > 1 %}
+          <a class="page-link" href="{{ prev_path | relative_url }}" aria-label="previous-page">
+            <i class="fas fa-angle-left"></i>
+          </a>
+        {% else %}
+          <span class="page-link" aria-hidden="true">
+            <i class="fas fa-angle-left"></i>
+          </span>
+        {% endif %}
       </li>
 
       {% for page in (1..total_pages) %}
@@ -171,9 +177,15 @@ refactor: true
       {% endfor %}
 
       <li class="page-item{% if current_page >= total_pages %} disabled{% endif %}">
-        <a class="page-link" href="{{ next_path | relative_url }}" aria-label="next-page">
-          <i class="fas fa-angle-right"></i>
-        </a>
+        {% if current_page < total_pages %}
+          <a class="page-link" href="{{ next_path | relative_url }}" aria-label="next-page">
+            <i class="fas fa-angle-right"></i>
+          </a>
+        {% else %}
+          <span class="page-link" aria-hidden="true">
+            <i class="fas fa-angle-right"></i>
+          </span>
+        {% endif %}
       </li>
     </ul>
   </nav>
