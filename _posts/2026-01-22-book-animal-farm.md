@@ -44,16 +44,20 @@ The novella is widely understood as a satirical allegory for the events leading 
 
 ## My Notes
 
-*[Your thoughts here — some prompts to get you started:]*
+This was one of many books I've decided to read to fill in the classics gap. It is one I really enjoyed, and is as important today as it ever was. The idea that the workers should revolt and take over the means of production is an obvious takeaway from this text, but that is too simplistic. The book speaks to how power corrupts. How power can mutate the 'reality' to suit a narrative that keeps it in power. This is most of interest in politics of today as well as Orwell's writing period.
 
 - What did this book make you think about? How did the allegory land for you?
+  - I liked how the Pigs in charge kept making plausible reasons why they should be compensated more than others, and that the other animals accepted this to keep the status-quo even as things went in the opposite direction of the initial rebellions core tenets.
 - Were there characters or moments that stuck with you?
+  - The rewriting of history to paint the animals who left as evil, and even those that were the 'heros' in the rebellion were painted to be the opposite. This happens in our own timeline.
 - Did it change or reinforce any of your views on leadership, power, or politics?
+  - I think the idea of CEO's making 1000x of the average worker is akin to the Pigs in this story. The other idea is of power corrupting, and ultimate power corrupting ultimately.
 - Would you recommend it? To whom?
+  - Highly. This and Candide should be taught in every school. However... I think it is banned in some places... isn't that ironic.
 
 ---
 
 ## Quotes
 
-*[Add any favourite quotes or passages here.]*
-
+"Four legs good, two legs bad."
+“All animals are equal, but some animals are more equal than others.”
