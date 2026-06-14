@@ -13,6 +13,8 @@ tags:
 author: herrick
 stars: 9
 image: /assets/img/postMedia/bookcovers/how-we-got-to-now.jpg
+date: 2026-02-14 00:00 +0000
+date_read: 2026-02-14 00:00 +0000
 ---
 
 ## Overview
@@ -22,6 +24,7 @@ image: /assets/img/postMedia/bookcovers/how-we-got-to-now.jpg
 **Published:** 2014  
 **Genre:** Popular science / History of technology  
 **Pages:** ~293  
+**Date Read:** {{page.date_read}}
 **Rating:** {{page.stars}} / 10
 
 ---

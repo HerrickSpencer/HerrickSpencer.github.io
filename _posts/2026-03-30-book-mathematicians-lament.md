@@ -14,6 +14,7 @@ stars: 10
 math: true
 image: /assets/img/postMedia/bookcovers/mathematicians-lament.jpg
 date: 2026-03-30 00:00 +0000
+date_read: 2026-03-30 00:00 +0000
 ---
 ## Overview
 
@@ -22,7 +23,8 @@ date: 2026-03-30 00:00 +0000
 **Published:** 2009 (as a book; the essay circulated from 2002)  
 **Genre:** Essay / Education / Mathematics  
 **Pages:** ~140  
-**Stars:** 10
+**Date Read:** {{page.date_read}}
+**Rating:** {{page.stars}} / 10
 
 ---
 

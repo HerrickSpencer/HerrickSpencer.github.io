@@ -12,6 +12,8 @@ tags:
 author: herrick
 stars: 8
 image: /assets/img/postMedia/bookcovers/artemis.jpg
+date: 2026-03-04 00:00 +0000
+date_read: 2026-03-04 00:00 +0000
 ---
 
 ## Overview
@@ -21,6 +23,7 @@ image: /assets/img/postMedia/bookcovers/artemis.jpg
 **Published:** 2017  
 **Genre:** Science fiction / Thriller  
 **Pages:** ~305  
+**Date Read:** {{page.date_read}}
 **Rating:** {{page.stars}} / 10
 
 ---

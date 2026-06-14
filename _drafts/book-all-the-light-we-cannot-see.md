@@ -12,6 +12,8 @@ tags:
 author: herrick
 stars: 8
 image: /assets/img/postMedia/bookcovers/all-the-light-we-cannot-see.jpg
+date: 2026-03-15 00:00 +0000
+date_read: 2026-03-15 00:00 +0000
 ---
 
 ## Overview
@@ -21,6 +23,7 @@ image: /assets/img/postMedia/bookcovers/all-the-light-we-cannot-see.jpg
 **Published:** 2014  
 **Genre:** Historical fiction  
 **Pages:** ~531  
+**Date Read:** {{page.date_read}}
 **Rating:** {{page.stars}} / 10
 
 ---

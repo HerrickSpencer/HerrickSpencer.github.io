@@ -13,6 +13,7 @@ author: herrick
 stars: 7.5
 image: /assets/img/postMedia/bookcovers/yellowface.jpg
 date: 2026-03-19 00:00 +0000
+date_read: 2026-03-19 00:00 +0000
 ---
 ## Overview
 
@@ -21,6 +22,7 @@ date: 2026-03-19 00:00 +0000
 **Published:** 2023  
 **Genre:** Literary fiction / Satire  
 **Pages:** ~322  
+**Date Read:** {{page.date_read}}
 **Rating:** {{page.stars}} / 10
 
 ---

@@ -12,6 +12,8 @@ tags:
 author: herrick
 stars: 8
 image: /assets/img/postMedia/bookcovers/the-dutch-house.jpg
+date: 2026-04-16 00:00 +0000
+date_read: 2026-04-16 00:00 +0000
 ---
 
 ## Overview
@@ -21,6 +23,7 @@ image: /assets/img/postMedia/bookcovers/the-dutch-house.jpg
 **Published:** 2019  
 **Genre:** Literary fiction  
 **Pages:** ~337  
+**Date Read:** {{page.date_read}}
 **Rating:** {{page.stars}} / 10
 
 ---

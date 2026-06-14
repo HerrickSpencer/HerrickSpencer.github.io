@@ -12,6 +12,8 @@ tags:
 author: herrick
 stars: 9
 image: /assets/img/postMedia/bookcovers/find-her.jpg
+date: 2026-03-22 00:00 +0000
+date_read: 2026-03-22 00:00 +0000
 ---
 
 ## Overview
@@ -21,6 +23,7 @@ image: /assets/img/postMedia/bookcovers/find-her.jpg
 **Published:** 2016  
 **Genre:** Thriller / Mystery  
 **Pages:** ~400  
+**Date Read:** {{page.date_read}}
 **Rating:** {{page.stars}} / 10
 
 ---

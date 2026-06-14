@@ -13,6 +13,8 @@ tags:
 author: herrick
 stars: 9
 image: /assets/img/postMedia/bookcovers/careless-people.jpg
+date: 2026-02-02 00:00 +0000
+date_read: 2026-02-02 00:00 +0000
 ---
 
 ## Overview
@@ -22,6 +24,7 @@ image: /assets/img/postMedia/bookcovers/careless-people.jpg
 **Published:** 2025  
 **Genre:** Memoir / Narrative nonfiction  
 **Pages:** ~384  
+**Date Read:** {{page.date_read}}
 **Rating:** {{page.stars}} / 10
 
 ---

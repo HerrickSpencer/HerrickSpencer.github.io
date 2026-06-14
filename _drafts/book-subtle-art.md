@@ -12,6 +12,8 @@ tags:
 author: herrick
 stars: 6
 image: /assets/img/postMedia/bookcovers/subtle-art.jpg
+date: 2026-02-24 00:00 +0000
+date_read: 2026-02-24 00:00 +0000
 ---
 ## Overview
 
@@ -20,6 +22,7 @@ image: /assets/img/postMedia/bookcovers/subtle-art.jpg
 **Published:** 2016  
 **Genre:** Self-help / Popular philosophy  
 **Pages:** ~224  
+**Date Read:** {{page.date_read}}
 **Rating:** {{page.stars}} / 10
 
 ---
