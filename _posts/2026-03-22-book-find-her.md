@@ -42,16 +42,15 @@ Flora Dane became a fan-favourite character and appears in subsequent Gardner no
 
 ## My Notes
 
-*[Your thoughts here — some prompts to get you started:]*
+This was one of two books recommended by our babysitter (who reads even more books a year than I do!) and I normally would not have picked up this book, but was glad I did. Since then I have considered a wider range of non-fiction books that I've enjoyed.
+
+This one was really interesting and had some elements of a story that I enjoy. Perseverance of spirit, revenge theme, twists in plot that are hard to predict. I loved the main character and rooted for her even while not agreeing with how she handled her situation. Yet the story arced in a way that allowed the character's redemption.
 
 - Was this your first Lisa Gardner / D.D. Warren novel, or have you read others in the series?
+  - Yes, and funny that reading the first seven was not necessary. I'm considering looking at the other novels, but don't want to be disappointed they don't stand up to this one.
 - How did Gardner handle the trauma themes — did it feel respectful or exploitative?
+  - Definitely respectful. I heard that the author actually spent time in therapy and trauma sessions researching this, along with getting insight from law enforcement.
 - Flora Dane — what did you make of her as a character?
+  - I love a revenge character... she was bad ass. I also liked that she was not super-human. The author did a great job making her vulnerable in her Stockholm syndrome and frailty at times.
 - Did you predict the twists, or were you genuinely surprised?
-
----
-
-## Quotes
-
-*[Add any favourite quotes or passages here.]*
-
+  - I predicted many of the twists... but they stayed just ahead of me to make it exciting.
