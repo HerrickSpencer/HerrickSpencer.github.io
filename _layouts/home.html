@@ -5,7 +5,11 @@ refactor: true
 
 {% include lang.html %}
 
-<i> <b>Note:</b> Some of my personal posts are kept off this list, for those that are only interested in technical content. You can find them in the <a href="/categories/life">Personal Life</a> category.</i>
+<i><b>Note:</b> Some of my personal posts are kept off this list, for those that are only interested in technical content. You can find them in the <a href="/categories/life">Personal Life</a> category.</i>
+<br>
+<i><b>Books:</b> Only my latest book review is listed below. Check out the <a href="{{ '/books/' | relative_url }}">full books list</a> for all reviews.</i>
+
+{% assign latest_book = site.posts | where_exp: 'item', 'item.categories contains "Books" and item.hidden != true' | first %}
 
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
@@ -44,9 +48,14 @@ refactor: true
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
-  {% if post.categories contains 'Cancer' %}
-    {% continue %}
-  {% endif %}
+    {% if post.categories contains 'Cancer' %}
+      {% continue %}
+    {% endif %}
+    {% if post.categories contains 'Books' %}
+      {% if latest_book == nil or post.url != latest_book.url %}
+        {% continue %}
+      {% endif %}
+    {% endif %}
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
         {% assign card_body_col = '12' %}
