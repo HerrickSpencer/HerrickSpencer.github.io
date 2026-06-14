@@ -1,22 +1,21 @@
 ---
 layout: post
-title: "Book: Candide"
+title: 'Book: Candide'
 categories:
-  - Books
+- Books
 tags:
-  - books
-  - reading
-  - fiction
-  - classics
-  - satire
-  - philosophy
+- books
+- reading
+- fiction
+- classics
+- satire
+- philosophy
 author: herrick
 stars: 9
-image: /assets/img/postMedia/bookcovers/candide.jpg
+image: "/assets/img/postMedia/bookcovers/candide.jpg"
 date: 2026-03-07 00:00 +0000
 date_read: 2026-03-07 00:00 +0000
 ---
-
 ## Overview
 
 **Title:** Candide, or Optimism  
