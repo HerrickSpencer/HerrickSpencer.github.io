@@ -43,16 +43,8 @@ The title refers to Bargatze's own description of himself and his observational,
 
 ## My Notes
 
-*[Your thoughts here — some prompts to get you started:]*
+First of all, I love this comic. I find his stories of his family life particularly entertaining in his standup. This book however was simply a retelling of most of those stories, but without the visual feel of the stage.
 
-- Were there stories in the book that made you laugh out loud — or that felt surprisingly touching?
-- How does the book compare to his stand-up specials?
-- Was there a story or moment you identified with personally?
-- Would you recommend this to a specific person in your life? Who and why?
+One thing I disliked, and may have made me feel different about his standup is that he constantly makes light of how dumb he is... to the point of glorifying it. I am not an elitist by any stretch, but feel it pitiable when someone seems to do self-effacing communication as if they are self conscious of their own intelligence. So... this kind of took me out of the 'funny' of the book.
 
 ---
-
-## Quotes
-
-*[Add any favourite quotes or passages here.]*
-
