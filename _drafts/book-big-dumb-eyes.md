@@ -14,7 +14,7 @@ author: herrick
 stars: 6
 image: /assets/img/postMedia/bookcovers/big-dumb-eyes.jpg
 date: 2026-02-26 00:00 +0000
-date_read: 2026-02-26 00:00 +0000
+date_read: 2026-02-26
 ---
 
 ## Overview

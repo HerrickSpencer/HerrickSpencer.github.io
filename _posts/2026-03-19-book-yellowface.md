@@ -13,7 +13,7 @@ author: herrick
 stars: 7.5
 image: /assets/img/postMedia/bookcovers/yellowface.jpg
 date: 2026-03-19 00:00 +0000
-date_read: 2026-03-19 00:00 +0000
+date_read: 2026-03-19
 ---
 ## Overview
 

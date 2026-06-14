@@ -13,7 +13,7 @@ author: herrick
 stars: 8
 image: /assets/img/postMedia/bookcovers/artemis.jpg
 date: 2026-03-04 00:00 +0000
-date_read: 2026-03-04 00:00 +0000
+date_read: 2026-03-04
 ---
 
 ## Overview

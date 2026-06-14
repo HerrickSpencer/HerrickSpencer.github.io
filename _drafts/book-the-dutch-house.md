@@ -13,7 +13,7 @@ author: herrick
 stars: 8
 image: /assets/img/postMedia/bookcovers/the-dutch-house.jpg
 date: 2026-04-16 00:00 +0000
-date_read: 2026-04-16 00:00 +0000
+date_read: 2026-04-16
 ---
 
 ## Overview

@@ -13,7 +13,7 @@ author: herrick
 stars: 8
 image: /assets/img/postMedia/bookcovers/all-the-light-we-cannot-see.jpg
 date: 2026-03-15 00:00 +0000
-date_read: 2026-03-15 00:00 +0000
+date_read: 2026-03-15
 ---
 
 ## Overview

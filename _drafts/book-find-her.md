@@ -13,7 +13,7 @@ author: herrick
 stars: 9
 image: /assets/img/postMedia/bookcovers/find-her.jpg
 date: 2026-03-22 00:00 +0000
-date_read: 2026-03-22 00:00 +0000
+date_read: 2026-03-22
 ---
 
 ## Overview

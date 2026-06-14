@@ -13,7 +13,7 @@ author: herrick
 stars: 8
 image: /assets/img/postMedia/bookcovers/animal-farm.jpg
 date: 2026-01-22 00:00 +0000
-date_read: 2026-01-22 00:00 +0000
+date_read: 2026-01-22
 ---
 
 ## Overview

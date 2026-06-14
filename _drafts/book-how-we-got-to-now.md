@@ -14,7 +14,7 @@ author: herrick
 stars: 9
 image: /assets/img/postMedia/bookcovers/how-we-got-to-now.jpg
 date: 2026-02-14 00:00 +0000
-date_read: 2026-02-14 00:00 +0000
+date_read: 2026-02-14
 ---
 
 ## Overview
