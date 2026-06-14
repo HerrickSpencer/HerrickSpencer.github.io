@@ -46,12 +46,18 @@ Patchett explores themes of wealth, loss, family loyalty, and the dangerous pull
 
 ## My Notes
 
-*[Your thoughts here — some prompts to get you started:]*
+I usually consume three books at a time, always have an audio book for traveling and walks, and two for reading in Kindle or paper form. This is the first where I feel the audio book made it possible for me to 'read' it. It is very much outside my normal type of reading. However listening to Tom Hanks read it to me made it somehow hit with more impact and import. 
+
+This was a work of much emotion and rueful reflection on the past. It is an interesting vignette into this family dynamic and choices in relationships. It seemed like the tales of a real family rather than contrived. The work really makes you evaluate your own familial relationships.
 
 - Did you listen to the Tom Hanks audiobook version? If so, how did his narration add to the experience?
+  - Without his excellent recitation of this book, I likely may not have 'read' it.
 - How did the sibling dynamic between Danny and Maeve land with you?
+  - Very interesting, Maeve seemed to act as the mother to Danny, but was emotionally stunted in the place where she felt wronged by the step mother... the house.
 - The Dutch House itself — what did it represent to you symbolically?
+  - It seemed to represent a bubble in time, when the family was stuck in it physically, and now stuck in it mentally.
 - Did the novel's meditation on nostalgia and the past resonate with anything in your own life?
+  - I think about things in my past that could have been handled differently, people who I wish I could have reconciled with, and paths not taken. Throughout this book I seemed to fall on these thoughts as the sister and brother struggled to deal with the situation they found themselves in with their mother and stepmother.
 
 ---
 
