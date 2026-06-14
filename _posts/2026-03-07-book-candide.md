@@ -14,7 +14,7 @@ author: herrick
 stars: 9
 image: "/assets/img/postMedia/bookcovers/candide.jpg"
 date: 2026-03-07 00:00 +0000
-date_read: 2026-03-07 00:00 +0000
+date_read: 2026-03-07
 ---
 ## Overview
 
