@@ -10,20 +10,42 @@ refactor: true
 <i><b>Books:</b> Only my latest book review is listed below. Check out the <a href="{{ '/books/' | relative_url }}">full books list</a> for all reviews.</i>
 
 {% assign latest_book = site.posts | where_exp: 'item', 'item.categories contains "Books" and item.hidden != true' | first %}
+{% assign home_posts = '' | split: '' %}
+{% for post in site.posts %}
+  {% if post.hidden == true %}
+    {% continue %}
+  {% endif %}
+  {% if post.categories contains 'Cancer' %}
+    {% continue %}
+  {% endif %}
+  {% if post.categories contains 'Books' %}
+    {% if latest_book == nil or post.url != latest_book.url %}
+      {% continue %}
+    {% endif %}
+  {% endif %}
+  {% assign home_posts = home_posts | push: post %}
+{% endfor %}
 
-{% assign pinned = site.posts | where: 'pin', 'true' %}
-{% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign pinned = home_posts | where: 'pin', 'true' %}
+{% assign default = home_posts | where_exp: 'item', 'item.pin != true' %}
 
 {% assign posts = '' | split: '' %}
+{% assign per_page = site.paginate | default: 10 %}
+{% assign current_page = paginator.page | default: 1 %}
+{% assign offset = current_page | minus: 1 | times: per_page %}
+{% assign total_posts = home_posts | size %}
+{% assign total_pages = total_posts | plus: per_page | minus: 1 | divided_by: per_page %}
+{% assign paginate_path = site.paginate_path | default: '/page:num/' %}
 
 <!-- Get pinned posts -->
 
-{% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
 {% assign pinned_num = pinned.size | minus: offset %}
 
 {% if pinned_num > 0 %}
   {% for i in (offset..pinned.size) limit: pinned_num %}
-    {% assign posts = posts | push: pinned[i] %}
+    {% if pinned[i] %}
+      {% assign posts = posts | push: pinned[i] %}
+    {% endif %}
   {% endfor %}
 {% else %}
   {% assign pinned_num = 0 %}
@@ -37,25 +59,19 @@ refactor: true
   {% assign default_beg = 0 %}
 {% endif %}
 
-{% assign default_num = paginator.posts | size | minus: pinned_num %}
+{% assign default_num = per_page | minus: pinned_num %}
 {% assign default_end = default_beg | plus: default_num | minus: 1 %}
 
 {% if default_num > 0 %}
   {% for i in (default_beg..default_end) %}
-    {% assign posts = posts | push: default[i] %}
+    {% if default[i] %}
+      {% assign posts = posts | push: default[i] %}
+    {% endif %}
   {% endfor %}
 {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
-    {% if post.categories contains 'Cancer' %}
-      {% continue %}
-    {% endif %}
-    {% if post.categories contains 'Books' %}
-      {% if latest_book == nil or post.url != latest_book.url %}
-        {% continue %}
-      {% endif %}
-    {% endif %}
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
         {% assign card_body_col = '12' %}
@@ -124,6 +140,41 @@ refactor: true
 </div>
 <!-- #post-list -->
 
-{% if paginator.total_pages > 1 %}
-  {% include post-paginator.html %}
+{% if total_pages > 1 %}
+  {% assign prev_page = current_page | minus: 1 %}
+  {% assign next_page = current_page | plus: 1 %}
+  {% assign prev_path = '/' %}
+  {% assign next_path = '/' %}
+  {% if prev_page > 1 %}
+    {% assign prev_path = paginate_path | replace: ':num', prev_page %}
+  {% endif %}
+  {% if next_page > 1 %}
+    {% assign next_path = paginate_path | replace: ':num', next_page %}
+  {% endif %}
+
+  <nav aria-label="Page Navigation">
+    <ul class="pagination align-items-center mt-4 mb-0">
+      <li class="page-item{% if current_page <= 1 %} disabled{% endif %}">
+        <a class="page-link" href="{{ prev_path | relative_url }}" aria-label="previous-page">
+          <i class="fas fa-angle-left"></i>
+        </a>
+      </li>
+
+      {% for page in (1..total_pages) %}
+        {% assign page_path = '/' %}
+        {% if page > 1 %}
+          {% assign page_path = paginate_path | replace: ':num', page %}
+        {% endif %}
+        <li class="page-item{% if page == current_page %} active{% endif %}">
+          <a class="page-link" href="{{ page_path | relative_url }}">{{ page }}</a>
+        </li>
+      {% endfor %}
+
+      <li class="page-item{% if current_page >= total_pages %} disabled{% endif %}">
+        <a class="page-link" href="{{ next_path | relative_url }}" aria-label="next-page">
+          <i class="fas fa-angle-right"></i>
+        </a>
+      </li>
+    </ul>
+  </nav>
 {% endif %}
