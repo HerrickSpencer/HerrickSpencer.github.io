@@ -9,7 +9,6 @@ tags:
   - fiction
   - historical-fiction
   - wwii
-author: herrick
 stars: 8
 image: /assets/img/postMedia/bookcovers/all-the-light-we-cannot-see.jpg
 date: 2026-03-15 00:00 +0000
@@ -46,16 +45,13 @@ The novel is told in short, beautifully written chapters, alternating between ti
 
 ## My Notes
 
-*[Your thoughts here — some prompts to get you started:]*
+Honestly, the publisher's description above is perfect in my opinion of this work. Such a lovely story told from two sides of a very heavy subject matter. If you watch the Streaming Series of the same name, it is very good... but you don't get a lot of the motivations of the characters. I felt, as in most cases, the book told a much better tale and painted more nuance into the decisions they made.
 
 - How did the alternating perspectives and non-linear structure work for you?
+  - I felt this jumping perspective, which is common among books with multiple 'main characters', is a fine way to move the narrative forward in a chronological way, and aids to keep the reader interested by not overburdening the narrative in one area.
 - Marie-Laure or Werner — whose story resonated with you more?
+  - Werner most, but not in a personal way, more due to the character's reluctance to take part in the Nazi youth, and yet continuing on due to self-preservation. Seems a lot like what likely was going on for many people in 1930's Germany. 
 - The Sea of Flames diamond subplot — did it add to the story or distract from it?
+  - It added on to it, because ultimately it did destroy Marie's father, and later the officer's. It stood as a highlight to something that actually was going on at the time where Hitler was tasked with collecting works of art in Europe.
 - A Netflix series was made in 2023 — did you watch it? How did it compare?
-
----
-
-## Quotes
-
-*[Add any favourite quotes or passages here.]*
-
+  - I enjoyed it, but some of the nuances of the characters that really colored who they were in the book were underplayed in the series for some reason. The role Hugh Laurie played should have been much more grumpy and reclusive... I feel the writing (or acting) allowed him to come out of his shell in more of a Disney-ified way than was to my liking.
