@@ -182,7 +182,6 @@ tags:
   - reading
   - {fiction_tag}
 {extra_tags}\
-author: herrick
 stars: 0
 image: /assets/img/postMedia/bookcovers/{slug}.jpg
 date: {today} 00:00 +0000

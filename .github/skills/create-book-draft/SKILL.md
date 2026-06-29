@@ -74,7 +74,6 @@ tags:
   - reading
   - [fiction OR nonfiction]
   - [additional tags]
-author: herrick
 stars: 0
 image: /assets/img/postMedia/bookcovers/[slug].jpg
 date: [YYYY-MM-DD] 00:00 +0000
