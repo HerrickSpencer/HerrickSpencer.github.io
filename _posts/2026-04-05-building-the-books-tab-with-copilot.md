@@ -4,7 +4,7 @@ title: 'Building the Books Tab: A Story of AI Collaboration'
 categories:
 - Programming
 tags:
-- AI
+- ai
 - CoPilot
 - GitHub
 - Jekyll

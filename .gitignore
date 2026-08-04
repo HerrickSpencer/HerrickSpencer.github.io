@@ -7,3 +7,4 @@ frontmatter.json
 .frontmatter/
 vendor/
 .bundle/
+package-lock.json

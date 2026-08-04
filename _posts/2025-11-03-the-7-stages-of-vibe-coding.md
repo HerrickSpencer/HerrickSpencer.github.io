@@ -4,7 +4,7 @@ title: The 7 Stages of Vibe Coding Explained
 categories:
 - Programming
 tags:
-- AI
+- ai
 - CoPilot
 - GitHub
 - Visual Studio

@@ -4,7 +4,7 @@ title: Fun with CoPilot (ChatGPT) in Pull Requests
 categories:
 - Programming
 tags:
-- AI
+- ai
 - LM
 - ChatGpt
 - CoPilot

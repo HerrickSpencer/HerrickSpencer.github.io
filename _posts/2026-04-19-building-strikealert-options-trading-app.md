@@ -4,7 +4,7 @@ title: 'Building StrikeAlert: An AI-Assisted Options Trading App from Scratch'
 categories:
 - Programming
 tags:
-- AI
+- ai
 - CoPilot
 - GitHub
 - ".NET MAUI"

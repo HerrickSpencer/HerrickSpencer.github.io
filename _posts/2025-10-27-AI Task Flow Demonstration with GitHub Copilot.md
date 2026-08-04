@@ -4,7 +4,7 @@ title: 'TOW: AI Task Flow Demonstration with GitHub CoPilot'
 categories:
 - Programming
 tags:
-- AI
+- ai
 - CoPilot
 - GitHub
 - Visual Studio
