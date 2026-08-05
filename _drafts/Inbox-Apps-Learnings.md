@@ -2,7 +2,7 @@
 layout: post
 title: 'Reflecting on what I learn working on Inbox Apps'   
 categories:
-- Software development
+- Software Development
 tags:
 - Inbox Apps
 - Snipping Tool

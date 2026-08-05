@@ -2,7 +2,7 @@
 layout: post
 title: Local Models for AI Development
 categories:
-- Software development
+- Software Development
 - Technology
 - Programming
 - AI
