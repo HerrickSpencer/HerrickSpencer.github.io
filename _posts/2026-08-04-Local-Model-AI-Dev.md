@@ -30,7 +30,7 @@ There is [a very nice YouTube video](https://youtu.be/hfba9dAT6xE) that details 
 
 The newest Apple laptops boast an interesting option for what they call Universal memory. Apple silicon uses a shared pool of physical memory that can be accessed by both the CPU and GPU.
 
-The issue here is a double edged sword. While a M series with some Universal memory will definitely let you run a larger sized local model, it is significantly slower bandwidth memory (~500mbs) than the discrete VRAM on an NVIDIA GPU (1000+Mbs). So you will get a larger model, but the speed is not the same as if you had that same memory onboard the GPU. Yet the cost may be the thing that brings you to the mac devbox.
+The issue here is a double‑edged sword. While an M‑series machine with large unified memory will definitely let you run a larger local model, its memory bandwidth (~300–500 GB/s depending on the chip) is significantly lower than the discrete VRAM on an NVIDIA GPU (typically 800–2,000 GB/s). So you can load a larger model, but the speed is not the same as if you had that same memory on a GPU. Still, the cost and convenience may be what brings you to the Mac devbox
 
 Currently I'd advise a Mac only if your devs are into that ecosystem already, and pay more for a nice NVIDIA GPU if they are mainly on Windows/Linux.
 
